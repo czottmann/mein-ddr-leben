@@ -1,10 +1,10 @@
 ---  
 layout: chapter
-title: Der Wohnungssuchende … oder: Suche Frau mit Haus …
+title: "Der Wohnungssuchende … oder: Suche Frau mit Haus"
 chapter: 44
 ---  
 
-### Der Wohnungssuchende … oder: Suche Frau mit Haus …
+### Der Wohnungssuchende … oder: Suche Frau mit Haus
 
 All die Erniedrigungen und Verletzungen habe ich bis dato ertragen, aus
 blanker loyaler Achtung, denn sie bleibt ja meine Mutter, ob mir das nun

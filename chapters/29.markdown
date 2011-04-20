@@ -1,6 +1,6 @@
 ---  
 layout: chapter
-title: Postraub … oder: Die wahren Räuber
+title: "Postraub … oder: Die wahren Räuber"
 chapter: 29
 ---  
 

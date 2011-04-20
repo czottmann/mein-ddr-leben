@@ -141,11 +141,9 @@ Hühner waren allesamt geklaut. Dann erblickte Keune eine Zettelnachricht des
 Diebes, in gereimter Form, die an ihn gerichtet war (perfekt wäre gewesen,
 wenn die der Hahn vorgetragen hätte):
 
-"_Guten Morgen Herr Keune,_
-
-_gestern war'n wir noch Neune,_
-
-_heute bin ich alleune!"_
+> Guten Morgen Herr Keune,  
+> gestern war'n wir noch Neune,  
+> heute bin ich alleune!
 
 Ihm wurden also über Nacht acht Hühner gestibitzt … Und dennoch fand er über
 all seinem Ärger die Idee mit dem Reim so originell, dass er darüber
