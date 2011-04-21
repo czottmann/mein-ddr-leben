@@ -14,7 +14,7 @@ File.open( "mein-ddr-leben.html", "r" ).lines.each do |line|
     end
 
     count += 1
-    filename = "chapters/" + count.to_s.rjust( 2, "0" ) + ".html"
+    filename = "kapitel/" + count.to_s.rjust( 2, "0" ) + ".html"
     yaml = <<EOT
 ---<br>
 layout: chapter<br>

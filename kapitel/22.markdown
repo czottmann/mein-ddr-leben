@@ -1,6 +1,6 @@
 ---  
 layout: chapter
-title: "KZ-Scherge" R. …
+title: "\"KZ-Scherge\" R. …"
 chapter: 22
 ---  
 
