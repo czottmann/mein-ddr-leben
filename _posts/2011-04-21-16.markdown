@@ -14,9 +14,9 @@ hintere Sitzbank geschoben werden. Die hintere Rückenlehne musste natürlich
 zuvor entfernt werden, um das Gepäck zu verstauen, bis in den Kofferraum zu
 schieben.
 
-((042 +Link)) Wir 4 Zottmänner fuhren mit Jutta Mäm an die Ostsee nach Rerik-
-Meschendorf. Jutta bekam aber auch nur einen schmalen Sitzplatz zugewiesen,
-obwohl ja das halbe Auto theoretisch nur ihr zustand.
+((042 +Link)) Wir 4 Zottmänner fuhren mit Jutta Mäm an die Ostsee nach
+Rerik-Meschendorf. Jutta bekam aber auch nur einen schmalen Sitzplatz
+zugewiesen, obwohl ja das halbe Auto theoretisch nur ihr zustand.
 
 Gewohnt haben wir wie die Heringe in der Büchse. Unser Dreiviertel-Rundzelt
 bot mit Ach und Krach jedem eine schmale Liegefläche. Tischchen, 2 kleine
@@ -55,11 +55,11 @@ schwerhörige frühere Lehrerin, Hundezüchterin und bekannte Malerin Dorothea
 
 Auf Höhe des ersten Grundstücks der Bornholzweg-Siedlung schlugen einmal
 unvermittelt links neben mir am Hang Gewehrsalven ein. Ich ging, ohne es je
-gelernt zu haben in Deckung. Das Waldstück zwischen Altenburg und Eselstall /
-Seerosenteich war damals noch sowjetisches Sperrgebiet. Und dort haben wohl
-ein paar Russen verrückt gespielt und eben mal ihre Flinten quer über das
-Grüntal gehalten. Mit Sicherheit würde man heute die Geschosse mittels
-Detektoren noch finden ….
+gelernt zu haben in Deckung. Das Waldstück zwischen Altenburg und
+Eselstall/Seerosenteich war damals noch sowjetisches Sperrgebiet. Und dort
+haben wohl ein paar Russen verrückt gespielt und eben mal ihre Flinten quer
+über das Grüntal gehalten. Mit Sicherheit würde man heute die Geschosse
+mittels Detektoren noch finden ….
 
 Hurra ich lebe noch!
 
@@ -116,7 +116,7 @@ sichtbaren Karlsteich. Rainer sprang dort mit einem kühnen Kopfsprung ins
 Wasser und blieb kopfüber im Schlick stecken. Seine Kameraden begriffen gar
 nicht sofort, was geschah, als er ab Bauchnabel senkrecht aus dem Wasser
 ragte. Doch dann wurde er gerade noch rechtzeitig gerettet. An dieser Stelle
-war das Wasser noch maximal 5 cm tief, darunter nur Schlick.
+war das Wasser noch maximal 5cm tief, darunter nur Schlick.
 
 Aufgrund der mangelnden Gewässerpflege ist dieser Teich heute total verlandet.
 
@@ -137,7 +137,6 @@ Nun gab es nur noch 2 Juttas in unserer kurzen Straße.
 
 ((044)) Jede Schule beschäftigte einen hauptberuflichen Pionierleiter und
 einen FDJ-
-
 Sekretär. Die waren nur zu unserer Betreuung und der politischen Bildung an
 unserer Schule. So war Herr Walter T. unser Pionierleiter. Er war für alle
 Schüler der Unterstufe,die sogenannten Jungpioniere, also bis Ende der 4.
@@ -146,8 +145,9 @@ Klasse.
 
 Ab 5. Klasse, der Oberstufe waren wir dann automatisch Thälmann-Pioniere.
 
-Dann erst, mit 14 Jahren "durfte" man FDJ-ler werden. Ab da hatte der FDJ-
-Sekretär bis Ende der 10. Klasse, der sogenannten Mittleren Reife, das Sagen.
+Dann erst, mit 14 Jahren "durfte" man FDJ-ler werden. Ab da hatte der
+FDJ-Sekretär bis Ende der 10. Klasse, der sogenannten Mittleren Reife, das
+Sagen.
 
 Unser Sekretär war Annerose K., später wurde sie durch Heirat Frau H.. Sie
 kümmerte sich aber auch übergreifend um die Belange der größeren Pioniere. Sie
@@ -177,8 +177,8 @@ Mittwoch-Nachmittagen gab es noch eine Menge von Arbeitsgemeinschaften über
 die Woche verteilt.
 
 So zum Beispiel: Junge Gärtner, Astronomen, AG der Mathematiker, den
-Schulchor, den Spielmannszug. Des Weiteren gab es verschiedene Sport-
-Arbeitsgemeinschaften. Und es wurde außerschulische Nachhilfe für die
+Schulchor, den Spielmannszug. Des Weiteren gab es verschiedene
+Sport-Arbeitsgemeinschaften. Und es wurde außerschulische Nachhilfe für die
 schwachen Schüler organisiert. Unsere Schulwochen waren somit oft fast
 Volltag-Jobs, sofern man sich daran beteiligte. Außer mittwochs war alles
 freiwillig.

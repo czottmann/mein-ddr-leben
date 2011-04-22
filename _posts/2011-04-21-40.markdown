@@ -7,8 +7,8 @@ chapter: 40
 ### Ratschlag …
 
 ((157)) Wer etwa zwei weitere Stunden Zeit aufwenden möchte, sollte meinem
-Ratschlag folgend, nun erst [http:Baupionier.zottmann.org][1]separat
-weiterlesen.
+Ratschlag folgend, nun erst ["Baupionier
+Zottmann"](http://baupionier.zottmann.org) separat weiterlesen.
 
 Das ist ein Geschichtsrückblick aus meiner Sicht auf meine aktive Militärzeit
 in der Nationalen Volksarmee der Deutschen Demokratischen Republik.
@@ -18,6 +18,3 @@ Nur so bleibt die Chronologie gewahrt …
 Auch dieses erste "Machwerk" ist meinen Kindern und Enkelinnen gewidmet.
 
 Fertig gelesen? Wirklich? Nun, dann geht’s hier weiter …
-
-   [1]: http://Baupionier.zottmann.org/
-
