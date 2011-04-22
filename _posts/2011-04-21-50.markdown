@@ -14,22 +14,23 @@ simple Multiplikation hinbekommen.
 
 Ein Beispiel: Bei der Aufgabe 36 mal 17, musste die 36 erst mittels Hebeln
 eingestellt werden und dann mussten mit einer seitlichen Kurbel 17 volle
-Umdrehungen vollführt werden.Tolle Technik, allerdings bis zur Hannover-Messe
+Umdrehungen vollführt werden. Tolle Technik, allerdings bis zur Hannover-Messe
 1973, wirklich technischer Höchststand. Weltniveau!
 
 Wir hatten als Lehrlinge bereits ab 1966 eine "Einführung" in die
 elektronische Datenverarbeitung erhalten, doch fand diese in der DDR nur
 mittels Papp-Lochkarten statt. Unverändert, wie zu Zuses Zeiten. In Thale und
 auch in Quedlinburg wurden riesige Rechenzentren für die Bearbeitung und
-Auswertung der Loch-Pappkarten gebaut. 50 Meter lange klimatisierte Hallen
+Auswertung der Loch-Pappkarten gebaut. 50 Meter lange, klimatisierte Hallen
 waren das, mit je 3 langen Seitenflügeln. Diese Zentren namens "R-300" wurden
 DDR-weit errichtet, hatten aber weniger Rechenleistung als ein heutiger PC.
 
-((183)) Als ich seiner Zeit im Westfernsehen einen Bericht über die Hannover-Messe sah und dort der erste "Omron-Taschenrechner" präsentiert wurde, war ich
-platt. Ein DDR-Ingenieur hatte Jahre zuvor die Leuchtdiode erfunden, unser
-kleines Land aber erkannte deren Potential nicht, wusste nichts damit
-anzufangen. Und so wurde der erste Leuchtdioden-bestückte Rechner später vom
-Westen präsentiert.
+((183)) Als ich seiner Zeit im Westfernsehen einen Bericht über die
+Hannover-Messe sah und dort der erste "Omron-Taschenrechner" präsentiert
+wurde, war ich platt. Ein DDR-Ingenieur hatte Jahre zuvor die Leuchtdiode
+erfunden, unser kleines Land aber erkannte deren Potential nicht, wusste
+nichts damit anzufangen. Und so wurde der erste Leuchtdioden-bestückte Rechner
+später vom Westen präsentiert.
 
 Als ich dann auch noch den Preis dieses Wunderwerks erfuhr, nämlich nur um die
 60.- DM, war ich gänzlich platt.

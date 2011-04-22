@@ -9,7 +9,7 @@ chapter: 56
 ((198)) Wir bekamen so manches Werbegeschenk aus Baden-Württemberg. Dort
 wohnte ein Neffe vom August Wolf, der auch viele Male bei uns Besuche machte.
 Danke Landarzt Dr. med. Helmut D.. (Er wäre dieses Jahr 100 Jahre alt
-geworden. Geboren am 10.10.1910)
+geworden -- geboren am 10.10.1910.)
 
 Dr. D. und seine Frau Elsbeth sowie Tochter Betina besuchten Harzgerode schon
 immer.
@@ -59,12 +59,11 @@ Duderstädter Werkstatt übernommen wurde.
 
 Ich stand zwangsläufig stundenlang gelangweilt herum. Da kam ein
 Grenzoffizier, der augenscheinlich Feierabend zu haben schien geradewegs auf
-mich zu. Fragte mich in seiner Geltungssucht ruppig und strunzdumm: "Wieso
-stehen sie hier?"
+mich zu. Fragte mich in seiner Geltungssucht ruppig und strunzdumm: _"Wieso
+stehen sie hier?"_
 
-Ich antwortete noch blöder: "Weil ich DDR-Bürger bin!" Dieser dann: "Wieso?"
-
-"Ich kann nur in der DDR stehen, wo sonst?"
+Ich antwortete noch blöder: _"Weil ich DDR-Bürger bin!"_ -- Dieser dann:
+_"Wieso?"_ -- _"Ich kann nur in der DDR stehen, wo sonst?"_
 
 Da hat das Rindvieh sich aufgeregt, den bekam ich gar nicht wieder ruhig. Nach
 einigem Palaver hatte aber auch er begriffen, dass, und vor allem warum ich
@@ -83,7 +82,7 @@ gar den Wagen repariert … Sie hatten Tochter Betina schon aus Greußen
 benachrichtigt. Nur hatten ihre Denkspiele die Gier der DDR-Oberen aufs
 Westgeld außer Acht gelassen.
 
-"Was machen wir nun mit den 3.000 Ostmark?" fragte der Doktor. Denn sie
+_"Was machen wir nun mit den 3.000 Ostmark?"_ fragte der Doktor. Denn sie
 wollten nicht riskieren das Geld nochmals illegal reisen zu lassen. Das war ja
 ein zu ahndender Devisenschmuggel. Darauf stand Haft!
 

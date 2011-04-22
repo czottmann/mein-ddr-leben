@@ -46,52 +46,59 @@ herausspränge, stünde auf einem ganz anderen Blatt.
 Im Grunde wollte ich aber nie mehr, als meine selbstbestimmte Unabhängigkeit …
 
 Doch nun der Bericht eines mir unbekannten Schreibers, der auch einst in
-Silberhütte arbeitete:
+Silberhütte arbeitete[^1]:
 
-_Im Jahre 1968 wurde in der Aktuellen Schaubude ein junger Mann gezeigt dem
-die abenteuerliche Flucht aus der DDR in die BRD gelang. Den kenn' ich doch,
-es müsste doch der Bernd, der Bernd Böttger, ein Freund und Arbeitskollege von
-mir sein. Tatsächlich, er war es! Er stammte aus Sebnitz und war aus
-Begeisterung zur Feuerwerkerei in einen Betrieb nach Silberhütte gekommen.
-Dort wurde er wegen seiner fantastischen Ideen und Vorschläge nicht immer für
-voll genommen und wurde deshalb auch Münchhausen genannt. Um sich körperlich
-abzuhärten rannte er oft im Winter splitternackt durch tiefen Schnee im Wald
-herum, was ihm auch den Spitznamen "Der Yeti" einbrachte. Ich ging von
-Silberhütte weg und traf ihn einige Jahre später in Magdeburg in einer Klasse
-einer Ingenieurschule, in der ich Unterricht gab, wieder. Nach seinem Weggang
-von der Schule habe ich ihn dann aus den Augen verloren. Bis eben zu jener
-Fernsehsendung. Durch einen Bekannten aus Sebnitz erfuhr ich dann 1973 von
-seinem mysteriösen Tod, näheres konnte er mir aber nicht dazu sagen. Erst
-später 1989 konnte ich mich im Mauermuseum in Berlin über sein weiteres
-Schicksal informieren. Nachstehend bringe ich einen Auszug aus einer
-Dokumentation des NDR:_
-
-_Im Jahre 1968 am Strand von Gral-Müritz: In einer hellen Vollmondnacht
-wagtBernd Böttger die Flucht über die nasse Grenze Ostsee. Der junge Ingenieur
-hataus einem Hühnerschreck-Hilfsmotor in seiner Kellerwerkstatt ein
-Mini-U-Boot mit Verbrennungsmotor gebastelt. Doch der erste Fluchtversuch
-scheitert. DDR-Grenzer verhaften ihn und beschlagnahmen seine Erfindung. Nach
-acht Monaten Gefängnis baut er sich einen neuen Aqua-Scooter und flieht ein
-zweites Mal. Er will dasdänische Feuerschiff Gedser Rev in 25 Kilometern
-Entfernung erreichen. Plötzlich gegen Mitternacht: Motorengeräusche,
-Todesangst. DDR-Genzboote patrouillieren jede Nacht in dieser Gegend. Bei
-starkem Seegang lässt sich Bernd Böttger knapp unter der Wasseroberfläche
-ziehen, orientiert sich am Sternbild Großer Wagen und erreicht erschöpft aber
-erleichtert sein Ziel. In Ost und West macht sein Fall Furore. Ausländische
-und deutsche Firmen reißen sich um den talentierten Ingenieur. Für die
-Pinneberger Ilu-Motorenwerke entwickelte er dann seinen Aqua-Scooter zur
-Serienreife.Böttgers Erfindung beurteilte wenig später Professor F. Müller von
-der Technischen Universität Berlin als "so umwälzend wie das Moped oder den
-Taucheranzug, oder besser: wie beides zusammen". Von einer norddeutschen Firma
-wurde Böttgers Mini-U-Boot als Aqua-Scooter zur Serienreife weiterentwickelt.
-Aus James-Bond- Filmen kennt ihn inzwischen alle Welt. Ständig war Böttger
-unterwegs, um Gerätezu testen, konnte sein neues Leben genießen. Da ereignete
-sich am 27. August 1972 die Tragödie: Von einem Tauchgang vor dem kleinen
-spanischen Ort Cala Jonculs nahe Rosas kehrte er nicht lebend zurück. "Bernd
-Böttger ist vermutlich beim Ausprobieren von Tauchapparaten ertrunken", hieß
-es im offiziellen Untersuchungsbericht der spanischen Behörden. Doch Bernd
-Böttgers Familie vermutet Mord durch die Staatssicherheit. Auch nach der Wende
-konnte der mysteriöse Tod nicht aufgeklärt werden._
+> Im Jahre 1968 wurde in der Aktuellen Schaubude ein junger Mann gezeigt
+> dem die abenteuerliche Flucht aus der DDR in die BRD gelang. Den
+> kenn' ich doch, es müsste doch der Bernd, der Bernd Böttger, ein
+> Freund und Arbeitskollege von mir sein. Tatsächlich, er war es! Er
+> stammte aus Sebnitz und war aus Begeisterung zur Feuerwerkerei in
+> einen Betrieb nach Silberhütte gekommen.  Dort wurde er wegen seiner
+> fantastischen Ideen und Vorschläge nicht immer für voll genommen
+> und wurde deshalb auch Münchhausen genannt. Um sich körperlich
+> abzuhärten rannte er oft im Winter splitternackt durch tiefen Schnee
+> im Wald herum, was ihm auch den Spitznamen "Der Yeti" einbrachte. Ich
+> ging von Silberhütte weg und traf ihn einige Jahre später in
+> Magdeburg in einer Klasse einer Ingenieurschule, in der ich Unterricht
+> gab, wieder. Nach seinem Weggang von der Schule habe ich ihn dann aus
+> den Augen verloren. Bis eben zu jener Fernsehsendung. Durch einen
+> Bekannten aus Sebnitz erfuhr ich dann 1973 von seinem mysteriösen
+> Tod, näheres konnte er mir aber nicht dazu sagen. Erst später
+> 1989 konnte ich mich im Mauermuseum in Berlin über sein weiteres
+> Schicksal informieren. Nachstehend bringe ich einen Auszug aus einer
+> Dokumentation des NDR:
+>
+> > Im Jahre 1968 am Strand von Gral-Müritz: In einer hellen
+> > Vollmondnacht wagt Bernd Böttger die Flucht über die nasse Grenze
+> > Ostsee. Der junge Ingenieur hataus einem Hühnerschreck-Hilfsmotor
+> > in seiner Kellerwerkstatt ein Mini-U-Boot mit Verbrennungsmotor
+> > gebastelt. Doch der erste Fluchtversuch scheitert. DDR-Grenzer
+> > verhaften ihn und beschlagnahmen seine Erfindung. Nach acht
+> > Monaten Gefängnis baut er sich einen neuen Aqua-Scooter und
+> > flieht ein zweites Mal. Er will das dänische Feuerschiff Gedser
+> > Rev in 25 Kilometern Entfernung erreichen. Plötzlich gegen
+> > Mitternacht: Motorengeräusche, Todesangst. DDR-Genzboote
+> > patrouillieren jede Nacht in dieser Gegend. Bei starkem Seegang
+> > lässt sich Bernd Böttger knapp unter der Wasseroberfläche
+> > ziehen, orientiert sich am Sternbild Großer Wagen und erreicht
+> > erschöpft aber erleichtert sein Ziel. In Ost und West macht sein
+> > Fall Furore. Ausländische und deutsche Firmen reißen sich um
+> > den talentierten Ingenieur. Für die Pinneberger Ilu-Motorenwerke
+> > entwickelte er dann seinen Aqua-Scooter zur Serienreife. Böttgers
+> > Erfindung beurteilte wenig später Professor F. Müller von der
+> > Technischen Universität Berlin als _"so umwälzend wie das Moped
+> > oder den Taucheranzug, oder besser: wie beides zusammen"_. Von einer
+> > norddeutschen Firma wurde Böttgers Mini-U-Boot als Aqua-Scooter
+> > zur Serienreife weiterentwickelt. Aus James-Bond- Filmen kennt
+> > ihn inzwischen alle Welt. Ständig war Böttger unterwegs, um
+> > Geräte zu testen, konnte sein neues Leben genießen. Da ereignete
+> > sich am 27. August 1972 die Tragödie: Von einem Tauchgang
+> > vor dem kleinen spanischen Ort Cala Jonculs nahe Rosas kehrte
+> > er nicht lebend zurück. _"Bernd Böttger ist vermutlich beim
+> > Ausprobieren von Tauchapparaten ertrunken"_, hieß es im offiziellen
+> > Untersuchungsbericht der spanischen Behörden. Doch Bernd Böttgers
+> > Familie vermutet Mord durch die Staatssicherheit. Auch nach der
+> > Wende konnte der mysteriöse Tod nicht aufgeklärt werden.
 
 Mein Schnittpunkt mit Böttger war lediglich ein Spind, ein Umkleideraum, Jahre
 später. Zu damaliger Zeit wusste keiner seiner ehemaligen Kollegen, dass er
@@ -143,8 +150,9 @@ Da hatten die 4.000 eigens abgestellten Stasi-Leute alle Hände voll zu tun und
 konnten doch nicht alle überwachen. (Heute weiß man, dass zuvor über 500
 Menschen vorsorglich in Psychiatrien weggesperrt wurden. Hunderte Bürger kamen
 zusätzlich in Vorbeugehaft. Das wurde damals natürlich nicht publik gemacht.
-Und etliche Jugendliche erhielten im Vorfeld ein prophylaktisches Berlin-Verbot. So sollten die Spiele ruhiger verlaufen. Diese Rechnung ging auf und
-die Gäste ahnten von all dem nichts.)
+Und etliche Jugendliche erhielten im Vorfeld ein prophylaktisches
+Berlin-Verbot. So sollten die Spiele ruhiger verlaufen. Diese Rechnung ging
+auf und die Gäste ahnten von all dem nichts.)
 
 So frei wie dort hatten sich meine zukünftigen Kollegen nach ihrem eigenen
 Bekunden in der DDR noch nie bewegen können, sich noch nie gefühlt. (Doch frei
@@ -152,7 +160,8 @@ reisen durften wir erst 16 Jahre später!)
 
 Genosse Walter Ulbricht verdarb dann fast ihr sündiges Treiben, denn der starb
 während dieser Weltfestspiele. Da durfte aber die schizophrene DDR offiziell
-nicht trauern. Jetzt ist noch "lustig" angesagt, wurde von Honecker und Ober-FDJ-ler Egon Krenz angeordnet!
+nicht trauern. Jetzt ist noch "lustig" angesagt, wurde von Honecker und
+Ober-FDJ-ler Egon Krenz angeordnet!
 
 Einzelne bereits angelegte Trauerflore wurden sofort wieder entfernt. Ulbricht
 wurde auf Eis gelegt. "Der wird sich schon noch halten, in seinem Kühlfach"
@@ -176,3 +185,7 @@ war nie für's Militär, aber hier stand es mir mal hilfreich zur Seite. Ruck
 zuck waren fast alle eingezogen und mussten das alles noch erleiden, was ich
 für mich schon abgehakt hatte.
 
+
+[^1]: Besagter Bericht fand sich bis vor einiger Zeit auf
+[joikonet.spaces.live.com](http://joikonet.spaces.live.com/Blog/cns!1pxV90x9Qx6_-PVKhKm_-zMA!216.entry),
+ist aber nicht mehr live.
