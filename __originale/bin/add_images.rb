@@ -1,7 +1,9 @@
 #!/usr/bin/env ruby
 
 require "yaml"
+require "htmlentities"
 
+coder = HTMLEntities.new
 images = YAML.load( File.open("__originale/bildquellen.yaml") )
 files = Dir.entries("_posts").select { |fn| fn.match(/markdown$/) }
 alignment = "left"
@@ -16,12 +18,13 @@ files.each do |fn|
       num_s = $1
       image = images[num]
       title = ( image["title"] || "" ).gsub( '"', '\"' )
+      title = coder.encode( title, :hexadecimal )
       url = ( image["url"] || "" ).gsub( /&(?!amp;)/, "&amp;" )
       alignment = ( alignment == "left" ) ? "right" : "left"
       
       [
         "<figure class=\"#{alignment}\">",
-          "<a href=\"/bilder/#{num_s}.png\" title=\"Klicken f&uuml;r Grossansicht\">",
+          "<a href=\"/bilder/#{num_s}.jpg\" title=\"Klicken f&uuml;r Grossansicht\">",
             "<img title=\"#{title}\" src=\"/bilder/thumb-#{num_s}.png\" class=\"prettyPhoto\">",
           "</a>",
           "<figcaption>",
