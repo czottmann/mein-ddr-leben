@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Mein verstorbener Freund Udo …
+layout: post
+title: Mein verstorbener Freund Udo
 chapter: 41
 ---  
 
-### Mein verstorbener Freund Udo …
+### Mein verstorbener Freund Udo
 
 Als ich im Spätherbst 1971 nach meinem Armeedienst wieder in meine Brigade
 zurückkam, dauerte es nur ein paar Tage und ich erlebte das schlimmste Déjà-vu

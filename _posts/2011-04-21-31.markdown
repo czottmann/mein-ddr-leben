@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Meine Jugendweihe …
+layout: post
+title: Meine Jugendweihe
 chapter: 31
 ---  
 
-### Meine Jugendweihe …
+### Meine Jugendweihe
 
 ((123 +Link)) Nun begannen im 8. Schuljahr unsere Jugendstunden, wöchentlich
 eine.

@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Gemischtes …
+layout: post
+title: Gemischtes
 chapter: 14
 ---  
 
-### Gemischtes …
+### Gemischtes
 
 ((039)) Mein Vater hat nach seiner langen Krankheit 1955 eine anspruchsvolle,
 aber körperlich etwas leichtere Arbeit bei der HO (Handelsorganisation)

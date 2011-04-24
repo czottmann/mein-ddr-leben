@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Selbständig …
+layout: post
+title: Selbständig
 chapter: 60
 ---  
 
-### Selbständig …
+### Selbständig
 
 12 Jahre später dämmerte es solchen Politverbrechern wie Günter Mittag, seines
 Zeichens Wirtschaftsminister über Jahrzehnte in der DDR, dass ohne das

@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Rote Seelenfänger …
+layout: post
+title: Rote Seelenfänger
 chapter: 39
 ---  
 
-### Rote Seelenfänger …
+### Rote Seelenfänger
 
 Im Jahr 1964 erlebte ich als 13-Jähriger die Soldatenlieder brüllende
 Wehrmacht.

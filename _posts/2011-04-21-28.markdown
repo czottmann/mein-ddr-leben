@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Erniedrigungen …
+layout: post
+title: Erniedrigungen
 chapter: 28
 ---  
 
-### Erniedrigungen …
+### Erniedrigungen
 
 Jutta Mäm, so um die 5 Jahre älter als ich, hatte wohl schon ihre Lehre als
 Physiotherapeutin begonnen, als ich etwa 13-jährig krank auf unserem Sofa lag.

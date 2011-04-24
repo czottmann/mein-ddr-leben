@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Ich bin Meister …
+layout: post
+title: Ich bin Meister
 chapter: 51
 ---  
 
-### Ich bin Meister …
+### Ich bin Meister
 
 Ab Herbst 1974 bekam ich dann nach bestandener Meister-Prüfung endlich meinen
 eigenen Meisterbereich auf der Industriebaustelle Silberhütte zugewiesen. Dem

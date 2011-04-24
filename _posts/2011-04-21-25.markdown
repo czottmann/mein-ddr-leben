@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Volkers böse Taten …
+layout: post
+title: Volkers böse Taten
 chapter: 25
 ---  
 
-### Volkers böse Taten …
+### Volkers böse Taten
 
 ((104)) So etwa im 8. Schuljahr haben Herbert, Uwe, Wolfgang K. und ich so
 einigen Blödsinn veranstaltet. Wir dachten uns auch Mutproben aus.

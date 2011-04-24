@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Beruflicher Werdegang …
+layout: post
+title: Beruflicher Werdegang
 chapter: 49
 ---  
 
-### Beruflicher Werdegang …
+### Beruflicher Werdegang
 
 Mit meinem Umzug nach Harzgerode wechselte ich gleichzeitig auf die "WBK-
 Industriebaustelle Silberhütte" innerhalb des VEB Pyrotechnik Silberhütte.

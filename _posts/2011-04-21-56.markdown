@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: D.s …
+layout: post
+title: D.s
 chapter: 56
 ---  
 
-### D.s …
+### D.s
 
 ((198)) Wir bekamen so manches Werbegeschenk aus Baden-Württemberg. Dort
 wohnte ein Neffe vom August Wolf, der auch viele Male bei uns Besuche machte.

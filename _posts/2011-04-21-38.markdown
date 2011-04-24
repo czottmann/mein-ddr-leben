@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Meine schöne Lehrzeit …
+layout: post
+title: Meine schöne Lehrzeit
 chapter: 38
 ---  
 
-### Meine schöne Lehrzeit …
+### Meine schöne Lehrzeit
 
 Am 1. September 1966 begann meine Lehrzeit. Am Wochenende zuvor erfolgte mit
 allen Eltern die feierliche Eröffnung unserer 3-jährigen Ausbildung in der

@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Plastopack und die Zivilverteidigung …
+layout: post
+title: Plastopack und die Zivilverteidigung
 chapter: 52
 ---  
 
-### Plastopack und die Zivilverteidigung …
+### Plastopack und die Zivilverteidigung
 
 ((186)) Am 1. März 1977 kam dann mein Absprung, ich startete als Meister für
 Investitionsbau im VEB Plastopack Harzgerode durch. Genau 8 Jahre war ich

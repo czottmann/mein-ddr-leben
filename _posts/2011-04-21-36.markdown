@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Ferien …
+layout: post
+title: Ferien
 chapter: 36
 ---  
 
-### Ferien …
+### Ferien
 
 Doch vorerst standen neue, lange Nackedei-Ferien in Mecklenburg an. Nur noch
 Ferien und dann eine Lehre, ich käme dann also auch immer erst abends nach

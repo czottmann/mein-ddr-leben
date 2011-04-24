@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Analysen …
+layout: post
+title: Analysen
 chapter: 12
 ---  
 
-### Analysen …
+### Analysen
 
 Mit 59 Jahren Rückwärtsblick kann ich mir mein sich verschlechterndes
 schulisches Verhalten heute erklären. Mit meiner Frau und unter Mitwirkung

@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Schule ade …
+layout: post
+title: Schule ade
 chapter: 35
 ---  
 
-### Schule ade …
+### Schule ade
 
 Die "schlimmen" Zeiten waren nun vorüber, besonders die Schulzeit.
 

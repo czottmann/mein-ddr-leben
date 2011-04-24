@@ -1,5 +1,5 @@
 ---  
-layout: chapter
+layout: post
 title: P70 -- unser halbes Auto
 chapter: 10
 ---  

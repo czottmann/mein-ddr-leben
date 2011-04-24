@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Ich wollte doch nur …
+layout: post
+title: Ich wollte doch nur…
 chapter: 42
 ---  
 
-### Ich wollte doch nur …
+### Ich wollte doch nur…
 
 Schwester Elke erlernte derzeit im VEB "Sternradio" in der Pölkenstraße den
 Beruf eines Funkmechanikers. Dort wurde am Fließband gearbeitet. Die Frauen

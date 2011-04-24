@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: 1990 …
+layout: post
+title: 1990
 chapter: 64
 ---  
 
-### 1990 …
+### 1990
 
 ((235))
 

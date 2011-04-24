@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Das Denkmal …
+layout: post
+title: Das Denkmal
 chapter: 27
 ---  
 
-### Das Denkmal …
+### Das Denkmal
 
 ((107 +Link)) Das erwähnte GutsMuts-Denkmal steht heute noch im Mummental. Auf
 dessen Sockel sind in laufender Haltung GutsMuts und sein Schüler Carl Ritter,

@@ -1,5 +1,5 @@
 ---  
-layout: chapter
+layout: post
 title: Friseur- und MaurerlehrlingZottmann…
 chapter: 33
 ---  

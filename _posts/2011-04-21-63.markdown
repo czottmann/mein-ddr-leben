@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Untergang und Neubeginn …
+layout: post
+title: Untergang und Neubeginn
 chapter: 63
 ---  
 
-### Untergang und Neubeginn …
+### Untergang und Neubeginn
 
 Zweieinhalb Jahre nach meiner ersten Reise, nach nunmehr 4 Westreisen während
 zwei weiteren Jahren in Selbständigkeit, öffneten sich in den Herbstwirren am

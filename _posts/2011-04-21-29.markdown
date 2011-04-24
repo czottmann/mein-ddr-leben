@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: "Postraub … oder: Die wahren Räuber"
+layout: post
+title: "Postraub oder: Die wahren Räuber"
 chapter: 29
 ---  
 
-### Postraub … oder: Die wahren Räuber
+### Postraub oder: Die wahren Räuber
 
 Jeden Monat fuhr meine Mutter einmal zum 24-köpfigen Urania-Präsidium nach
 Berlin, dem auch sie angehörte. Ihr Fahrer hatte dann bis zur Rückfahrt

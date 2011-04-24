@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Besuch aus Kanada …
+layout: post
+title: Besuch aus Kanada
 chapter: 43
 ---  
 
-### Besuch aus Kanada …
+### Besuch aus Kanada
 
 1972 war das Jahr der ausklingenden bemannten amerikanischen Monderoberung.
 Die Amis waren seit 1969 mehrmals auf dem Mond gelandet. Lediglich bei "Apollo

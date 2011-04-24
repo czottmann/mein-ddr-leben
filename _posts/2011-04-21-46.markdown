@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Hochzeitsreise …
+layout: post
+title: Hochzeitsreise
 chapter: 46
 ---  
 
-### Hochzeitsreise …
+### Hochzeitsreise
 
 Dank Ehekredit in Höhe von 5.000.- Mark konnten wir unsere zwei Zimmer im
 Obergeschoss gleich einrichten. Dieser Kredit wurde zinslos ausgereicht. Bei

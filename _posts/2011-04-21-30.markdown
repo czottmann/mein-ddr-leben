@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Harzreisen mit Bauchschmerzen …
+layout: post
+title: Harzreisen mit Bauchschmerzen
 chapter: 30
 ---  
 
-### Harzreisen mit Bauchschmerzen …
+### Harzreisen mit Bauchschmerzen
 
 ((120 +Link)) Unsere Wochenendfahrten brachten uns zu schönen Zielen der
 näheren Umgebung. Einige Male befuhren wir auch das Kyffhäuser-Gebirge.

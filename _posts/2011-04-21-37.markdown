@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Boris N. …
+layout: post
+title: Boris N.
 chapter: 37
 ---  
 
-### Boris N. …
+### Boris N.
 
 ((134 +Link)) Während dieses ersten Rätssee-Urlaubs, also 1966, stand eines
 Tages ein demolierter Panzer T 34 am Waldesrand neben einem riesigen Findling

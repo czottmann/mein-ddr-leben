@@ -1,5 +1,5 @@
 ---  
-layout: chapter
+layout: post
 title: Meine Oma Hedwig…
 chapter: 7
 ---  

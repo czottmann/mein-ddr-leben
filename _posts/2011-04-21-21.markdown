@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: MeineOberstufe …
+layout: post
+title: MeineOberstufe
 chapter: 21
 ---  
 
-### MeineOberstufe …
+### MeineOberstufe
 
 ((076 +Link)) Jeden Montag begann ab 5. Klasse unsere Schulwoche mit einem
 Fahnenappell. Jahrein, jahraus. Das war ein halbmilitärisches Zeremoniell mit

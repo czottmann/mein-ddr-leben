@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Unsere Urlaube und andere Begebenheiten …
+layout: post
+title: Unsere Urlaube und andere Begebenheiten
 chapter: 16
 ---  
 
-### Unsere Urlaube und andere Begebenheiten …
+### Unsere Urlaube und andere Begebenheiten
 
 1959 wurde unser "halber P70" gepackt. Das war bei dieser "Limousine" aber
 nicht ganz einfach. Der Wagen hatte zwar einen Kofferraum, aber keine

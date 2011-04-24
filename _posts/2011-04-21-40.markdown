@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Ratschlag …
+layout: post
+title: Ratschlag
 chapter: 40
 ---  
 
-### Ratschlag …
+### Ratschlag
 
 ((157)) Wer etwa zwei weitere Stunden Zeit aufwenden möchte, sollte meinem
 Ratschlag folgend, nun erst ["Baupionier

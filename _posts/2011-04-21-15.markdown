@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Wir fahren nach Magdeburg …
+layout: post
+title: Wir fahren nach Magdeburg
 chapter: 15
 ---  
 
-### Wir fahren nach Magdeburg …
+### Wir fahren nach Magdeburg
 
 ((041)) Mit dem "P70" haben wir Ende der 50er Jahre Mutters Schwester Erika
 nebst Familie in Magdeburg / Cracau, in der Georg-Büchner-Straße 43 am "Alten

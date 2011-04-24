@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Wir heiraten …
+layout: post
+title: Wir heiraten
 chapter: 45
 ---  
 
-### Wir heiraten …
+### Wir heiraten
 
 Meine Mutter keiferte, äußerte ihre Bedenken, was wohl die Harzgeröder
 Nachbarn sagen würden, wenn ich einfach so zu Reimonde ziehe. Wilde Ehe? Nein!

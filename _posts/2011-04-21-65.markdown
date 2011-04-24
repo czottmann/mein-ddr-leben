@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Schlusswort …
+layout: post
+title: Schlusswort
 chapter: 65
 ---  
 
-### Schlusswort …
+### Schlusswort
 
 ((236 +Link)) _"Zwei Dinge sind unendlich, das Universum und die menschliche
 Dummheit, aber bei dem Universum bin ich mir noch nicht ganz sicher."_

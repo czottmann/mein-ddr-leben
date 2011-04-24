@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Wo wir nun wohnten …
+layout: post
+title: Wo wir nun wohnten
 chapter: 8
 ---  
 
-### Wo wir nun wohnten …
+### Wo wir nun wohnten
 
 ((022)) Im Jahr 1956 zogen wir durch einen Wohnungstausch von der Bergstraße 3
 in eine passendere 3-Raum-Wohnung, in die Maxim-Gorki-Straße 2, auch in der

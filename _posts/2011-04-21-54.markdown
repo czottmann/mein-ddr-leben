@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Es geht nur noch abwärts …
+layout: post
+title: Es geht nur noch abwärts
 chapter: 54
 ---  
 
-### Es geht nur noch abwärts …
+### Es geht nur noch abwärts
 
 Mein Opa Willi starb bereits 1980, für uns alle ohne jede Vorwarnung. Zwar war
 er krank, doch erahnte seinen schnellen Tod niemand.

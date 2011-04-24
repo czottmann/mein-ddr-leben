@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Meine Ankunft und Taler, Taler Du musst wandern …
+layout: post
+title: Meine Ankunft und Taler, Taler Du musst wandern
 chapter: 3
 ---  
 
-### Meine Ankunft und Taler, Taler Du musst wandern …
+### Meine Ankunft und Taler, Taler Du musst wandern
 
 Ich hätte ein halber Franzose werden können und besäße heute eventuell einen
 Ellsässer Weinberg. Doch … es kam anders!

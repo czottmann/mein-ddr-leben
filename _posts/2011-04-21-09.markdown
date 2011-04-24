@@ -1,10 +1,10 @@
 ---  
-layout: chapter
-title: Meine Schulzeit und andere Katastrophen …
+layout: post
+title: Meine Schulzeit und andere Katastrophen
 chapter: 9
 ---  
 
-### Meine Schulzeit und andere Katastrophen …
+### Meine Schulzeit und andere Katastrophen
 
 ((023)) Unmittelbar vor meiner Einschulung brach ich mir irgendwie (alles weiß
 ich auch nicht mehr) den rechten Unterarm an. Nun "durfte" ich wieder einmal
