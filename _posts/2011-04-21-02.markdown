@@ -4,8 +4,7 @@ title: Inhaltsverzeichnis
 chapter: 2
 ---  
 
-### Inhaltsverzeichnis
-
+* [Kurzes Vorwort](/01.html)
 * [Meine Ankunft und Taler, Taler Du musst wandern](/03.html)
 * [Tanne](/04.html)
 * [Meine erste Westreise](/05.html)

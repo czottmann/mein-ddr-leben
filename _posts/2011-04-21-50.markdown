@@ -4,7 +4,7 @@ title: Der Taschenrechner
 chapter: 50
 ---  
 
-### Der Taschenrechner
+
 
 ((182 +Link)) 1973 und 1974 hatte ich als Brigadier monatliche Bau- und
 Lohnabrechnungen zu fertigen. Dazu teilten sich 3 Meister und mehrere

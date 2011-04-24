@@ -1,10 +1,12 @@
 ---  
 layout: post
-title: ((002)) Kurzes Vorwort
+title: Kurzes Vorwort
 chapter: 1
 ---  
 
-### ((002)) Kurzes Vorwort
+
+
+((002))
 
 > Ich wurde geboren, ohne es zu wollen.  
 > Ich werde sterben, ohne dass ich es möchte.  

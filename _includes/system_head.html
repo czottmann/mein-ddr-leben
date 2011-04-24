@@ -12,8 +12,8 @@
 	<script src="/js/modernizr.js"></script>
 	{% case page.layout %}
 	{% when 'home' %}
-		<title>{{ site.sitename }}</title>
-		<meta name="description" content="{{ page.desctiption }}">
+	<title>{{ site.sitename }}</title>
+	  <meta http-equiv="refresh" content="0;url=/01.html">
 	{% when 'post' %}
 		<title>{{ site.sitename }} &rarr; {{ page.title }}</title>
 		<meta name="description" content="{{ content | strip_html | truncatewords: 25 }}">
