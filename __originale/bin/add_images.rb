@@ -11,12 +11,12 @@ files.each do |fn|
   
   lines = File.open(fn).readlines
   lines.map! do |line|
-    line.gsub( /\(\((\d{3})( \+Link)\)\)/ ) do |m|
+    line.gsub( /\(\((\d{3})( \+Link)?\)\)/ ) do |m|
       num = $1.to_i.to_s
       num_s = $1
       image = images[num]
       title = ( image["title"] || "" ).gsub( '"', '\"' )
-      url = image["url"].gsub( /&(?!amp;)/, "&amp;" ) rescue nil
+      url = ( image["url"] || "" ).gsub( /&(?!amp;)/, "&amp;" )
       alignment = ( alignment == "left" ) ? "right" : "left"
       
       [
@@ -26,7 +26,7 @@ files.each do |fn|
           "</a>",
           "<figcaption>",
             title,
-            url ? " <small><a href=\"#{url}\">(Quelle)</a></small>" : "",
+            url != "" ? " <small><a href=\"#{url}\">(Quelle)</a></small>" : "",
           "</figcaption>",
         "</figure>\n"
       ].join("")
