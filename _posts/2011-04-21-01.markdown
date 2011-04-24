@@ -6,7 +6,8 @@ chapter: 1
 
 
 
-((002))
+<figure class="right"><a href="/bilder/002.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker Zottmann" src="/bilder/thumb-002.png"></a><figcaption>Volker Zottmann</figcaption></figure>
+
 
 > Ich wurde geboren, ohne es zu wollen.  
 > Ich werde sterben, ohne dass ich es möchte.  

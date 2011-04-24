@@ -6,7 +6,8 @@ chapter: 31
 
 
 
-((123 +Link)) Nun begannen im 8. Schuljahr unsere Jugendstunden, wöchentlich
+<figure class="right"><a href="/bilder/123.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Beatles" src="/bilder/thumb-123.png"></a><figcaption>Beatles <small><a href="http://commons.wikimedia.org/wiki/File:The_Fabs.JPG#file">(Quelle)</a></small></figcaption></figure>
+ Nun begannen im 8. Schuljahr unsere Jugendstunden, wöchentlich
 eine.
 
 Die englische Band "The Beatles" hatten sich gerade selbst erfunden. Gern, zu
@@ -20,7 +21,8 @@ Er und sein Geselle, Herr Schams, schafften höchstens je 1 bis 2 Männer in der
 Stunde. (Die konnten sich bei ihrem kläglichen Stundenverdienst nur durch die
 staatlichen Subventionen halten).
 
-((124)) Dort wurde grundsätzlich über die Wochenend-Fußballergebnisse
+<figure class="left"><a href="/bilder/124.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Mu&#x308;nze 1 Mark" src="/bilder/thumb-124.png"></a><figcaption>Mu&#x308;nze 1 Mark</figcaption></figure>
+ Dort wurde grundsätzlich über die Wochenend-Fußballergebnisse
 gefachsimpelt. Sie waren dabei stets besser als ihre Quedlinburger Fußballer
 selbst.
 
@@ -60,7 +62,8 @@ nach Hause gebracht.
 
 (Die hässlichen liefen sicher allein … ;))
 
-((125)) Auf solch einem Heimweg hat mich Renate verführt, allerdings nur zum
+<figure class="right"><a href="/bilder/125.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Trabant 600" src="/bilder/thumb-125.png"></a><figcaption>Trabant 600</figcaption></figure>
+ Auf solch einem Heimweg hat mich Renate verführt, allerdings nur zum
 Rauchen. Sie spendierte eine Zigarette. Das Ding, ich meine die Zigarette,
 brannte gerade, da kam ein mir bekannter Trabant an der Metallwaren-Fabrik
 Union über die Bahngleise geknattert. Ich bin unter Renates Mantel gekrochen,
@@ -99,7 +102,9 @@ bekam ich rechtzeitig bequeme, aber _braune abgerundete_ Schuhe verpasst.
 
 Ich war immer anders, es lag aber oft nicht an mir …
 
-((126)) ((127)) Unsere Jugendweihe fand im März 1965 statt, da war ich immer
+<figure class="left"><a href="/bilder/126.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Gelo&#x308;bnis" src="/bilder/thumb-126.png"></a><figcaption>Gelo&#x308;bnis</figcaption></figure>
+ <figure class="right"><a href="/bilder/127.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="\&#x22;Weltall, Erde, Mensch\&#x22;-Buch, Gelo&#x308;bnis" src="/bilder/thumb-127.png"></a><figcaption>\&#x22;Weltall, Erde, Mensch\&#x22;-Buch, Gelo&#x308;bnis</figcaption></figure>
+ Unsere Jugendweihe fand im März 1965 statt, da war ich immer
 noch 13 Jahre alt und als Einziger und Jüngster meiner Schulklasse immer noch
 Thälmann-Pionier.
 
@@ -135,7 +140,8 @@ unserer Klasse, der bis heute kein einziges Jugendweihe-Foto besitzt. Ob sie
 hier wieder bewusst sparten oder schlichtweg nur vergaßen Fotos zu bestellen,
 ich konnte es nie ergründen …
 
-((128 +Link)) Als "krönenden" Abschluss führte uns unsere
+<figure class="left"><a href="/bilder/128.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="KZ Buchenwald" src="/bilder/thumb-128.png"></a><figcaption>KZ Buchenwald <small><a href="http://commons.wikimedia.org/wiki/File:KZ_Buchenwald_Torgeb%C3%A4ude_1.JPG#file">(Quelle)</a></small></figcaption></figure>
+ Als "krönenden" Abschluss führte uns unsere
 geschichtspolitische Jugendweihe-Klassenfahrt auf den Ettersberg bei Weimar.
 Hier mussten wir uns das Konzentrationslager Buchenwald mit all seinen
 faschistischen Schrecken und nationalsozialistischen Abscheulichkeiten

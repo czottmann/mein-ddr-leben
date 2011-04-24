@@ -6,7 +6,8 @@ chapter: 64
 
 
 
-((235))
+<figure class="right"><a href="/bilder/235.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Wir am Ende der DDR" src="/bilder/thumb-235.png"></a><figcaption>Wir am Ende der DDR</figcaption></figure>
+
 
 Wir haben nun aber, von unseren Kindern unbemerkt, sehr oft nachts wach
 gelegen und gegrübelt, in welcher neuen Bau-Sparte wir uns zukünftig betätigen

@@ -23,7 +23,10 @@ Weise.
 Oma Schepp ist fast 100 Jahre alt geworden und an der Ostseeküste in der Nähe
 von ihrem Horst im Altersheim Kühlungsborn verstorben.
 
-((098 +Link)) ((099 +Link))) ((100 +Link))) Ich erlernte damals autodidaktisch
+<figure class="right"><a href="/bilder/098.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Blindenschrift-Alphabet" src="/bilder/thumb-098.png"></a><figcaption>Blindenschrift-Alphabet <small><a href="http://commons.wikimedia.org/wiki/File:Braille_alphabet.jpg#file">(Quelle)</a></small></figcaption></figure>
+ <figure class="left"><a href="/bilder/099.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Matritze + Griffel" src="/bilder/thumb-099.png"></a><figcaption>Matritze + Griffel <small><a href="http://commons.wikimedia.org/wiki/File:Slate_and_Stylus_1.jpg">(Quelle)</a></small></figcaption></figure>
+) <figure class="right"><a href="/bilder/100.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Blindenschrift" src="/bilder/thumb-100.png"></a><figcaption>Blindenschrift <small><a href="http://de.wikipedia.org/wiki/Datei:A_person_reading_a_braille_book.jpg#file">(Quelle)</a></small></figcaption></figure>
+) Ich erlernte damals autodidaktisch
 die Brailleschrift (Blindenschrift) und habe dann mittels einer Bleimatritze
 und einem Kupfergriffel Oma Schepp etliche Male Post zukommen lassen. Das tat
 ich besonders im Urlaub und während meiner späteren qualvollen Armeezeit. Ich
@@ -32,7 +35,8 @@ Postkarten. So konnte sie dann die rückseitig erhabene Blindenschrift
 entziffern. Die Karten steckte ich dann in unfrankierte Briefumschläge. Denn
 Blindenpost ist portofrei!
 
-((101 +Link)) Ab etwa 6. Schuljahr wurden mir schleichend immer mehr Aufgaben
+<figure class="left"><a href="/bilder/101.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Warteschlange" src="/bilder/thumb-101.png"></a><figcaption>Warteschlange <small><a href="http://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-2007-0112,_Berlin,_Warteschlange_vor_Backwarenladen.jpg#file">(Quelle)</a></small></figcaption></figure>
+ Ab etwa 6. Schuljahr wurden mir schleichend immer mehr Aufgaben
 von meiner Mutter auferlegt. Sie ist eine Meisterin in Sachen Arbeiten
 verteilen und delegieren.
 
@@ -110,7 +114,8 @@ Bruder!
 
 Ich hatte ihr gegenüber aber auch liebe Momente …
 
-((103)) So habe ich oft für Elke und mich Mittagessen gekocht oder etwas
+<figure class="right"><a href="/bilder/103.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker&#x27;s Mu&#x308;tze" src="/bilder/thumb-103.png"></a><figcaption>Volker&#x27;s Mu&#x308;tze</figcaption></figure>
+ So habe ich oft für Elke und mich Mittagessen gekocht oder etwas
 gebraten. Aus steter Ermangelung an größeren Vorräten gab es sehr oft
 Bratkartoffeln.
 

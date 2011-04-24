@@ -6,7 +6,9 @@ chapter: 7
 
 
 
-((018)) ((019)) Jetzt kam aber erst mal eine für mich sehr lange, wunderschöne
+<figure class="right"><a href="/bilder/018.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Kindergarten Quedlinburg" src="/bilder/thumb-018.png"></a><figcaption>Kindergarten Quedlinburg</figcaption></figure>
+ <figure class="left"><a href="/bilder/019.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker + Oma Hedwig" src="/bilder/thumb-019.png"></a><figcaption>Volker + Oma Hedwig</figcaption></figure>
+ Jetzt kam aber erst mal eine für mich sehr lange, wunderschöne
 Kindergartenzeit im HO-Kindergarten, auch in der Leninstraße. Ein Katzensprung
 von Rieneckers Fuhrbetrieb und Kohlenhandlung entfernt.
 
@@ -95,7 +97,8 @@ Brot wegwerfe.
 Der hohe Wert all unserer Lebensmittel wurde mir hier ganz unbewusst
 vermittelt.
 
-((020)) Die Toilette war eine halbe Treppe tiefer als Gemeinschaftsörtchen auf
+<figure class="right"><a href="/bilder/020.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Brikett" src="/bilder/thumb-020.png"></a><figcaption>Brikett</figcaption></figure>
+ Die Toilette war eine halbe Treppe tiefer als Gemeinschaftsörtchen auf
 dem Treppenabsatz eingebaut.
 
 Im Keller bewahrte Oma noch als ihre eiserne Reserve ein paar Zentner lange
@@ -121,7 +124,8 @@ oft auf einem Brett, welches quer über Elkes Korbkinderwagen gelegt war,
 dämmernd gesessen und konnte kaum das Gleichgewicht halten. Zu den Eltern
 meiner Mutter später mehr.
 
-((021)) Ebenso liefen wir zum Eichelberg oder wanderten durch den Brühl zur
+<figure class="left"><a href="/bilder/021.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker + Faun" src="/bilder/thumb-021.png"></a><figcaption>Volker + Faun</figcaption></figure>
+ Ebenso liefen wir zum Eichelberg oder wanderten durch den Brühl zur
 Altenburg. Dann war sommers immer mein Faun-LKW dabei. Das machte riesigen
 Spaß. Rückzu wurden beispielsweise Tannenzapfen geladen, zur späteren
 Beschickung unseres Badeofens. So "half" ich schon recht früh, die Heizkosten

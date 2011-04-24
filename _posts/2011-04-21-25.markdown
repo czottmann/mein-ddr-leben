@@ -6,7 +6,8 @@ chapter: 25
 
 
 
-((104)) So etwa im 8. Schuljahr haben Herbert, Uwe, Wolfgang K. und ich so
+<figure class="left"><a href="/bilder/104.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Ra&#x308;ucherkerze" src="/bilder/thumb-104.png"></a><figcaption>Ra&#x308;ucherkerze</figcaption></figure>
+ So etwa im 8. Schuljahr haben Herbert, Uwe, Wolfgang K. und ich so
 einigen Blödsinn veranstaltet. Wir dachten uns auch Mutproben aus.
 
 Eine war, zu erforschen, wie lange man eine brennende Räucherkerze auf dem
@@ -64,7 +65,8 @@ und sich heute darüber selbst kaputt lacht.
 
 Und Simone kann lachen …
 
-((105 +Link)) In dieser Zeit experimentierte ich auch einige Male mit meinem
+<figure class="right"><a href="/bilder/105.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Chemiebaukasten" src="/bilder/thumb-105.png"></a><figcaption>Chemiebaukasten <small><a href="http://commons.wikimedia.org/wiki/File:Kosmos1928.png?uselang=de#file">(Quelle)</a></small></figcaption></figure>
+ In dieser Zeit experimentierte ich auch einige Male mit meinem
 Chemie-Baukasten. Da dieser auch einen gläsernen Bunsenbrenner hatte, fanden
 meine Experimente im Luftschutzkeller statt. Der diente als
 Gemeinschaftskeller. Irgendwie und irgendwann ist dort der Brenner geplatzt,

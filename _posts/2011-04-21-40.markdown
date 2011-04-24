@@ -6,7 +6,8 @@ chapter: 40
 
 
 
-((157)) Wer etwa zwei weitere Stunden Zeit aufwenden möchte, sollte meinem
+<figure class="left"><a href="/bilder/157.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker als Soldat" src="/bilder/thumb-157.png"></a><figcaption>Volker als Soldat</figcaption></figure>
+ Wer etwa zwei weitere Stunden Zeit aufwenden möchte, sollte meinem
 Ratschlag folgend, nun erst ["Baupionier
 Zottmann"](http://baupionier.zottmann.org) separat weiterlesen.
 

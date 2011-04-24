@@ -6,7 +6,8 @@ chapter: 27
 
 
 
-((107 +Link)) Das erwähnte GutsMuts-Denkmal steht heute noch im Mummental. Auf
+<figure class="right"><a href="/bilder/107.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="GutsMuths-Denkmal" src="/bilder/thumb-107.png"></a><figcaption>GutsMuths-Denkmal <small><a href="http://commons.wikimedia.org/wiki/File:Quedlinburg_GutsMuths-Denkmal_(2006).JPG#file">(Quelle)</a></small></figcaption></figure>
+ Das erwähnte GutsMuts-Denkmal steht heute noch im Mummental. Auf
 dessen Sockel sind in laufender Haltung GutsMuts und sein Schüler Carl Ritter,
 der spätere, bedeutendste deutsche Kartograph, verewigt. Als Geograph ist er
 gleich bedeutsam wie Alexander von Humboldt. Selbst Otto von Bismarck hat es

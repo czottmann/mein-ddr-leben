@@ -6,7 +6,8 @@ chapter: 30
 
 
 
-((120 +Link)) Unsere Wochenendfahrten brachten uns zu schönen Zielen der
+<figure class="left"><a href="/bilder/120.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Kyffha&#x308;user" src="/bilder/thumb-120.png"></a><figcaption>Kyffha&#x308;user <small><a href="http://commons.wikimedia.org/wiki/File:Kyffhaeuser_Denkmal_Turm_Umrahmed_Vertikal.JPG#file">(Quelle)</a></small></figcaption></figure>
+ Unsere Wochenendfahrten brachten uns zu schönen Zielen der
 näheren Umgebung. Einige Male befuhren wir auch das Kyffhäuser-Gebirge.
 Besuchten den Fernsehturm auf dem Kulpenberg und erwiesen Kaiser Barbarossa
 die Ehre.
@@ -71,7 +72,9 @@ Das waren meines Erachtens mit die schlimmsten kollektiven DDR-Verbrechen!
 Was der 2. Weltkrieg nicht schaffte, ließ nun die DDR-Führung in
 Friedenszeiten zerstören.
 
-((121 +Link)) ((122 +Link)) Schmaler konnte das Sperrgebiet auch darum werden,
+<figure class="right"><a href="/bilder/121.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Wachturm" src="/bilder/thumb-121.png"></a><figcaption>Wachturm <small><a href="http://commons.wikimedia.org/wiki/File:Beobachtungturm-11.jpg?uselang=de#file">(Quelle)</a></small></figcaption></figure>
+ <figure class="left"><a href="/bilder/122.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Selbstschussanlage" src="/bilder/thumb-122.png"></a><figcaption>Selbstschussanlage <small><a href="http://de.wikipedia.org/w/index.php?title=Datei:Spring-gun_Selbstschussanlage.JPG&amp;">(Quelle)</a></small></figcaption></figure>
+ Schmaler konnte das Sperrgebiet auch darum werden,
 weil es undurchlässiger gestaltet wurde.
 
 So wurden ab 1969 lückenlos Beton-Wachtürme errichtet und ab Januar 1970 der

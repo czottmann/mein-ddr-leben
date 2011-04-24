@@ -31,7 +31,12 @@ von preußischen Traditionen als Rechtfertigung gefaselt. Tut mir leid, das
 habe ich bis heute nicht nachvollziehen können.
 
 Hier nun zum Vergleich die Uniformen, möge jeder selbst urteilen …
-((149 +Link)) ((150 +Link)) ((151 +Link)) ((152 +Link)) ((153 +Link))
+<figure class="left"><a href="/bilder/149.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Wehrmacht" src="/bilder/thumb-149.png"></a><figcaption>Wehrmacht <small><a href="http://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_121-0385,_Berlin,_Besichtigung_der_Technischen_Polizeischule,_Daluege.jpg#file">(Quelle)</a></small></figcaption></figure>
+ <figure class="right"><a href="/bilder/150.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Wehrmacht 2" src="/bilder/thumb-150.png"></a><figcaption>Wehrmacht 2 <small><a href="http://de.wikipedia.org/wiki/Datei:Bundesarchiv_Bild_146-2004-0016,_Albert_Speer_und_Adolf_Hitler.jpg#file">(Quelle)</a></small></figcaption></figure>
+ <figure class="left"><a href="/bilder/151.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="NVA" src="/bilder/thumb-151.png"></a><figcaption>NVA <small><a href="http://de.wikipedia.org/wiki/Datei:Bundesarchiv_Bild_Y_10-0765-87,_Besuch_Erich_Honecker_an_Grenze.jpg#file">(Quelle)</a></small></figcaption></figure>
+ <figure class="right"><a href="/bilder/152.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Wehrmacht" src="/bilder/thumb-152.png"></a><figcaption>Wehrmacht <small><a href="http://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-H12262,_N%C3%BCrnberg,_Reichsparteitag,_Tag_der_Wehrmacht.jpg#file">(Quelle)</a></small></figcaption></figure>
+ <figure class="left"><a href="/bilder/153.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="NVA" src="/bilder/thumb-153.png"></a><figcaption>NVA <small><a href="http://de.wikipedia.org/wiki/Datei:Bundesarchiv_Bild_183-44786-0002,_Empfang_von_NVA-Offizieren_durch_Wilhelm_Pieck.jpg#file">(Quelle)</a></small></figcaption></figure>
+
 
 Nach einem kleinen Sprung von 4 Jahren wurde auch ich, kaum 17, noch keine 18
 Jahre alt, schon vom Wehrkreiskommando Quedlinburg belästigt. Nach der
@@ -129,7 +134,8 @@ Urlaub der bereits genommen war, wurde bezahlt. Ab Einberufungstermin gab es
 aber logischer Weise nur noch anteilige Bezahlung. Also verplante auch ich
 schnellstens den ganzen Urlaub.
 
-((154)) Ich bin dann mit dem Reisebüro für 6 Tage nach Moskau geflogen,
+<figure class="right"><a href="/bilder/154.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker in Moskau" src="/bilder/thumb-154.png"></a><figcaption>Volker in Moskau</figcaption></figure>
+ Ich bin dann mit dem Reisebüro für 6 Tage nach Moskau geflogen,
 erlebte eine vollverpflegte und begleitete Städtereise. Zugern wäre ich nach
 Paris oder London geflogen, oder aber "nur" in den bundesdeutschen Westen.
 Leider aber war Moskau zu diesem Zeitpunkt das einzig verfügbare Reiseziel. Es
@@ -154,7 +160,8 @@ Roten Platz habe ich so den einbalsamierten Genossen Lenin unmittelbar vor
 seinem 100. Geburtstag beäugt. Gut gehalten - trotzdem tot! Makaberes
 Schauspiel!
 
-((155 +Link)) Unweit des RGW-Hauptsitzes (Rat für gegenseitige
+<figure class="left"><a href="/bilder/155.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Borodino-Schlacht" src="/bilder/thumb-155.png"></a><figcaption>Borodino-Schlacht <small><a href="http://commons.wikimedia.org/wiki/File:Battle_of_Borodino_fragment_2.jpg#">(Quelle)</a></small></figcaption></figure>
+ Unweit des RGW-Hauptsitzes (Rat für gegenseitige
 Wirtschaftshilfe) wurde unsere Reisegruppe in ein Museum geführt, einige
 Gemälde hingen da rum, sonst nichts. Mittig eine steil aufragende Treppe, die
 sollten wir erklimmen. Oben angekommen hat es mir und wohl auch den meisten
@@ -208,7 +215,8 @@ Jahre amerikanische Kriegsgefangenschaft im Elsass berücksichtigen, die ich
 durch die immer und immer wiederkehrenden Erzählungen meines Vaters bereits
 durchlebt habe.
 
-((156)) Dass aber auch angehende Atheisten in der DDR den Waffendienst
+<figure class="right"><a href="/bilder/156.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Spatensoldaten" src="/bilder/thumb-156.png"></a><figcaption>Spatensoldaten</figcaption></figure>
+ Dass aber auch angehende Atheisten in der DDR den Waffendienst
 gänzlich verweigern konnten war mir da noch nicht bekannt. Wurde auch niemals
 lauthals propagiert. Ich war damals noch der festen Meinung, dieses Privileg
 hätten nur die gottesgläubigen jungen Männer gehabt. Und dazu fehlte mir die

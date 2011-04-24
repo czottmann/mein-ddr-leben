@@ -6,7 +6,8 @@ chapter: 65
 
 
 
-((236 +Link)) _"Zwei Dinge sind unendlich, das Universum und die menschliche
+<figure class="left"><a href="/bilder/236.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Einstein" src="/bilder/thumb-236.png"></a><figcaption>Einstein <small><a href="http://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer.jpg#file">(Quelle)</a></small></figcaption></figure>
+ _"Zwei Dinge sind unendlich, das Universum und die menschliche
 Dummheit, aber bei dem Universum bin ich mir noch nicht ganz sicher."_
 --Albert Einstein
 
@@ -123,7 +124,8 @@ entscheiden.
 Meine allerschönste Zeit aber hat 2006 begonnen, und beginnt doch täglich neu
 -- der hoffentlich lange Rest meines tollen Lebens, denn:
 
-((237)) Wer später stirbt, kriegt länger Rente und hat folglich mehr vom Leben!
+<figure class="right"><a href="/bilder/237.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker, 2010" src="/bilder/thumb-237.png"></a><figcaption>Volker, 2010</figcaption></figure>
+ Wer später stirbt, kriegt länger Rente und hat folglich mehr vom Leben!
 
 **Volker Zottmann**  
 03. Oktober 2010
