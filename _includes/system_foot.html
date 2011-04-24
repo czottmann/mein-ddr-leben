@@ -1,3 +1,10 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
 <script src="/js/facebox.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  $(document).ready( function() {
+    $('a[rel="facebox"]').facebox({ closeImage: "/img/closelabel.png", loadingImage: "/img/loading.gif" });
+  });
+</script>
+
 {% include ga.html %}
