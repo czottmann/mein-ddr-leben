@@ -1,0 +1,17 @@
+body.post .content figure {
+  background: #F0F0F0;
+  border-top: 1px solid white;
+  display: block;
+  outline: 1px solid #DDD;
+  padding: 10px;
+}
+
+body.post .content figure img {
+  border: 0;
+  outline: 1px solid #DDD;
+  padding: 0;
+}
+
+body.post .content figure.left {
+  margin-left: 252px;
+}
