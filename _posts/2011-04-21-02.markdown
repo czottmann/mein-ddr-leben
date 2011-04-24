@@ -6,65 +6,65 @@ chapter: 2
 
 ### Inhaltsverzeichnis
 
-* Meine Ankunft und Taler, Taler Du musst wandern
-* Tanne
-* Meine erste Westreise
-* Kindheit
-* Meine Oma Hedwig
-* Wo wir nun wohnten
-* Meine Schulzeit und andere Katastrophen
-* P 70 – unser halbes Auto
-* Nahtod - Erlebnis am Ochsenkopf
-* Analysen
-* Meine Großeltern vom Bornholzweg
-* Gemischtes
-* Wir fahren nach Magdeburg
-* Unsere Urlaube und andere Begebenheiten
-* 1961, das traurige Jahr
-* Viel neues Unheil
-* Fluchten
-* Innerdeutsche- und Familienpolitik
-* Meine Oberstufe
-* "KZ-Scherge" R.
-* Verlogenes Direktorat
-* Freiwillige und verordnete Arbeit
-* Volkers böse Taten
-* Die Mundräuber vom Mummental
-* Das Denkmal
-* Erniedrigungen
-* Postraub oder: Die wahren Räuber
-* Harzreisen mit Bauchschmerzen
-* Meine Jugendweihe
-* Nach Schulschluss – Alltag und Freizeit
-* Friseur- und Maurerlehrling Zottmann
-* Die alten Genossen
-* Schule ade
-* Ferien
-* Boris N.
-* Meine schöne Lehrzeit
-* Rote Seelenfänger
-* Ratschlag
-* Mein verstorbener Freund Udo
-* Ich wollte doch nur
-* Besuch aus Kanada
-* Der Wohnungssuchende oder: Suche Frau mit Haus
-* Wir heiraten
-* Hochzeitsreise
-* Meine ersten Ehejahre
-* Mein Stammhalter kommt
-* Beruflicher Werdegang
-* Der Taschenrechner
-* Ich bin Meister
-* Plastopack und die Zivilverteidigung
-* Farbfernsehen – und wie wir in die Röhre guckten
-* Es geht nur noch abwärts
-* Nebeneinkünfte und Flohmärkte
-* D's
-* Ausreisen
-* Meine / unsere Zelturlaube
-* Orden
-* Selbständig
-* Macht auf das Tor – ich reise gen Westen
-* Widerstand
-* Untergang und Neubeginn
-* Schlusswort
+* [Meine Ankunft und Taler, Taler Du musst wandern](/03.html)
+* [Tanne](/04.html)
+* [Meine erste Westreise](/05.html)
+* [Kindheit](/06.html)
+* [Meine Oma Hedwig](/07.html)
+* [Wo wir nun wohnten](/08.html)
+* [Meine Schulzeit und andere Katastrophen](/09.html)
+* [P 70 -- unser halbes Auto](/10.html)
+* [Nahtod-Erlebnis am Ochsenkopf](/11.html)
+* [Analysen](/12.html)
+* [Meine Großeltern vom Bornholzweg](/13.html)
+* [Gemischtes](/14.html)
+* [Wir fahren nach Magdeburg](/15.html)
+* [Unsere Urlaube und andere Begebenheiten](/16.html)
+* [1961, das traurige Jahr](/17.html)
+* [Viel neues Unheil](/18.html)
+* [Fluchten](/19.html)
+* [Innerdeutsche- und Familienpolitik](/20.html)
+* [Meine Oberstufe](/21.html)
+* ["KZ-Scherge" R.](/22.html)
+* [Verlogenes Direktorat](/23.html)
+* [Freiwillige und verordnete Arbeit](/24.html)
+* [Volkers böse Taten](/25.html)
+* [Die Mundräuber vom Mummental](/26.html)
+* [Das Denkmal](/27.html)
+* [Erniedrigungen](/28.html)
+* [Postraub oder: Die wahren Räuber](/29.html)
+* [Harzreisen mit Bauchschmerzen](/30.html)
+* [Meine Jugendweihe](/31.html)
+* [Nach Schulschluss -- Alltag und Freizeit](/32.html)
+* [Friseur- und Maurerlehrling Zottmann](/33.html)
+* [Die alten Genossen](/34.html)
+* [Schule ade](/35.html)
+* [Ferien](/36.html)
+* [Boris N.](/37.html)
+* [Meine schöne Lehrzeit](/38.html)
+* [Rote Seelenfänger](/39.html)
+* [Ratschlag](/40.html)
+* [Mein verstorbener Freund Udo](/41.html)
+* [Ich wollte doch nur …](/42.html)
+* [Besuch aus Kanada](/43.html)
+* [Der Wohnungssuchende oder: Suche Frau mit Haus](/44.html)
+* [Wir heiraten](/45.html)
+* [Hochzeitsreise](/46.html)
+* [Meine ersten Ehejahre](/47.html)
+* [Mein Stammhalter kommt](/48.html)
+* [Beruflicher Werdegang](/49.html)
+* [Der Taschenrechner](/50.html)
+* [Ich bin Meister](/51.html)
+* [Plastopack und die Zivilverteidigung](/52.html)
+* [Farbfernsehen -- und wie wir in die Röhre guckten](/53.html)
+* [Es geht nur noch abwärts](/54.html)
+* [Nebeneinkünfte und Flohmärkte](/55.html)
+* [D's](/56.html)
+* [Ausreisen](/57.html)
+* [Meine / unsere Zelturlaube](/58.html)
+* [Orden](/59.html)
+* [Selbständig](/60.html)
+* [Macht auf das Tor -- ich reise gen Westen](/61.html)
+* [Widerstand](/62.html)
+* [Untergang und Neubeginn](/63.html)
+* [Schlusswort](/64.html)

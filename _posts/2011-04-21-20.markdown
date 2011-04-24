@@ -1,6 +1,6 @@
 ---  
 layout: chapter
-title: Innerdeutsche – und Familienpolitik
+title: Innerdeutsche -- und Familienpolitik
 chapter: 20
 ---  
 
