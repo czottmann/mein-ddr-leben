@@ -15,14 +15,15 @@
 			</div>
 		</div><!-- id="main" -->
 		<nav class="pagenation">
-		<ul>
-		{% if page.previous %}
-			<li class="before left"><a rel="prev" href="{{ page.previous.url }}" class="btn">Vorheriges Kapitel</a></li>
-		{% endif %}
-		{% if page.next %}
-			<li class="next right"><a rel="next" href="{{ page.next.url }}" class="btn">N&auml;chstes Kapitel</a></li>
-		{% endif %}
-		</ul>
+  		<ul>
+  		{% if page.previous %}
+  			<li class="before left"><a rel="prev" href="{{ page.previous.url }}" class="btn">Vorheriges Kapitel</a></li>
+  		{% endif %}
+  		<li class="middle"><a rel="toc" href="/02.html" class="btn">Inhalt</a></li>
+  		{% if page.next %}
+  			<li class="next right"><a rel="next" href="{{ page.next.url }}" class="btn">N&auml;chstes Kapitel</a></li>
+  		{% endif %}
+  		</ul>
 		</nav>
 		{% include footer.html %}
 	</div><!-- id="page" -->

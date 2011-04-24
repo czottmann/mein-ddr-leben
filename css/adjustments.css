@@ -23,3 +23,14 @@ body.post .content figure figcaption {
 small {
   font-size: 75%;
 }
+
+.pagenation li.middle {
+  display: inline;
+  position: absolute;
+  left: 42%;
+}
+
+blockquote {
+  font-size: 1em;
+  font-weight: normal;
+}
