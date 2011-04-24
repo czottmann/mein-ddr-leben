@@ -24,8 +24,8 @@ files.each do |fn|
       
       [
         "<figure class=\"#{alignment}\">",
-          "<a href=\"/bilder/#{num_s}.jpg\" title=\"Klicken f&uuml;r Grossansicht\">",
-            "<img title=\"#{title}\" src=\"/bilder/thumb-#{num_s}.png\" class=\"prettyPhoto\">",
+          "<a href=\"/bilder/#{num_s}.jpg\" title=\"Klicken f&uuml;r Grossansicht\" rel=\"facebox\">",
+            "<img title=\"#{title}\" src=\"/bilder/thumb-#{num_s}.png\">",
           "</a>",
           "<figcaption>",
             title,

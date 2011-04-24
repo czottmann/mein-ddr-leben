@@ -6,7 +6,7 @@ body.post .content figure {
   padding: 10px;
 }
 
-body.post .content figure img {
+body.post .content figure img, #facebox img {
   border: 0;
   outline: 1px solid #DDD;
   padding: 0;
