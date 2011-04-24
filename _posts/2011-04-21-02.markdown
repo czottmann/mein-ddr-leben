@@ -66,4 +66,5 @@ chapter: 2
 * [Macht auf das Tor -- ich reise gen Westen](/61.html)
 * [Widerstand](/62.html)
 * [Untergang und Neubeginn](/63.html)
-* [Schlusswort](/64.html)
+* [1990](/64.html)
+* [Schlusswort](/65.html)
