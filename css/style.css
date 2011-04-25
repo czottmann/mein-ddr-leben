@@ -7,3 +7,9 @@
   float: right;
   margin-left: 0.5em;
 }
+
+body {
+  font-family: Georgia,"Times New Roman",serif;
+  font-size: 95%;
+  color: #444;
+}
