@@ -222,7 +222,7 @@ Options -MultiViews
 
 
 # custom 404 page
-ErrorDocument 404 /404/index.html
+ErrorDocument 404 /
 
 
 
