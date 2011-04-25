@@ -117,14 +117,14 @@ Das sind ungewollte Bilder, die habe ich nach fast 50 Jahren immer noch im
 Kopf.
 
 <figure class="left"><a href="/bilder/079.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Apfel" src="/bilder/thumb-079.png"></a><figcaption>Apfel</figcaption></figure>
- <figure class="right"><a href="/bilder/080.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Harzka&#x308;se" src="/bilder/thumb-080.png"></a><figcaption>Harzka&#x308;se</figcaption></figure>
- Er hatte eine Gabe, uns ganz simpel und allgemeinverständlich
-beizubringen, dass selbst durch Multiplizieren Ergebnisse kleiner werden
-können. Ich meine das Brüche-Multiplizieren. Er zerschnitt dafür liebend gern
-seine mitgebrachten Äpfel und bewies anschaulich, dass ein Viertel mal ein
-Halb nur noch ein Achtel war. Die schnellsten Rechenkünstler durften sich dann
-die Apfelscheiben einverleiben.
+Er hatte eine Gabe, uns ganz simpel und allgemeinverständlich beizubringen,
+dass selbst durch Multiplizieren Ergebnisse kleiner werden können. Ich meine
+das Brüche-Multiplizieren. Er zerschnitt dafür liebend gern seine
+mitgebrachten Äpfel und bewies anschaulich, dass ein Viertel mal ein Halb nur
+noch ein Achtel war. Die schnellsten Rechenkünstler durften sich dann die
+Apfelscheiben einverleiben.
 
+<figure class="right"><a href="/bilder/080.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Harzka&#x308;se" src="/bilder/thumb-080.png"></a><figcaption>Harzka&#x308;se</figcaption></figure>
 Ansonsten veranschaulichte er alles Mathematische mit x Soldaten und so und
 soviel Harzkäsen. Irgend etwas war also auch hier wieder militärisch.
 
@@ -332,11 +332,10 @@ Erst hieß es Malen und später, als Herr H. auf uns losgelassen wurde war es
 dann Kunsterziehung, die uns zuteil wurde. Auch ich habe gerne und viel
 gemalt, mit Kunst hatte das aber nie etwas zu tun.
 
-<figure class="left"><a href="/bilder/085.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="so sehen wir es ..." src="/bilder/thumb-085.png"></a><figcaption>so sehen wir es ... <small><a href="http://de.wikipedia.org/w/index.php?title=Datei:TCFruits.jpg&amp;filetimestamp=20100606154823#file">(Quelle)</a></small></figcaption></figure>
- <figure class="right"><a href="/bilder/086.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="... so sieht es Volker" src="/bilder/thumb-086.png"></a><figcaption>... so sieht es Volker <small><a href="http://de.wikipedia.org/w/index.php?title=Datei:RGFruits.jpg&amp;filetimestamp=20090609121152#file">(Quelle)</a></small></figcaption></figure>
- Seit während dieser "H.-Schuljahre" bei mir eine
-Rot-Grün-Sehschwäche festgestellt wurde, hatte ich den Freibrief in der
-Tasche.
+<figure class="right"><a href="/bilder/086.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="... so sieht es Volker" src="/bilder/thumb-086.png"></a><figcaption>... so sieht es Volker <small><a href="http://de.wikipedia.org/w/index.php?title=Datei:RGFruits.jpg&amp;filetimestamp=20090609121152#file">(Quelle)</a></small></figcaption></figure>
+<figure class="right"><a href="/bilder/085.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="so sehen wir es ..." src="/bilder/thumb-085.png"></a><figcaption>so sehen wir es ... <small><a href="http://de.wikipedia.org/w/index.php?title=Datei:TCFruits.jpg&amp;filetimestamp=20100606154823#file">(Quelle)</a></small></figcaption></figure>
+Seit während dieser "H.-Schuljahre" bei mir eine Rot-Grün-Sehschwäche
+festgestellt wurde, hatte ich den Freibrief in der Tasche.
 
 Meine Fachnote verbesserte sich schlagartig um mindestens zwei Zähler. H.
 traute sich nun nicht mehr, meine "Kunstwerke" schlecht zu benoten. Toll.

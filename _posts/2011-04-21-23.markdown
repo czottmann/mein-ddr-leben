@@ -7,19 +7,19 @@ chapter: 23
 
 
 <figure class="left"><a href="/bilder/095.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Altstoffsammlung" src="/bilder/thumb-095.png"></a><figcaption>Altstoffsammlung <small><a href="http://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-L0217-020,_Berlin,_Pioniere_unterst%C3%BCtzen_%22Mach-mit-Wettbewerb%22.jpg#file">(Quelle)</a></small></figcaption></figure>
- <figure class="right"><a href="/bilder/096.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="DDR-Mu&#x308;nzen" src="/bilder/thumb-096.png"></a><figcaption>DDR-Mu&#x308;nzen</figcaption></figure>
- Anfang der 60er Jahre sammelte unsere gesamte Schule
-regelmäßig Altstoffe. Eine gewisse Zeit mussten wir alles Geld abgeben, damit
-sich unsere Schule einen Fernseher kaufen könne. Mindestens 2 Jahre hat die
-Schulleitung skrupellos das Geld kassiert, doch ein Fernsehgerät ist in meiner
-gesamten Schulzeit nicht angeschafft worden. Doch die hatten tausende Mark
-eingenommen. Da war sie wieder, die DDR-Verlogenheit und keiner traute sich,
-diese zu hinterfragen!
+
+Anfang der 60er Jahre sammelte unsere gesamte Schule regelmäßig Altstoffe.
+Eine gewisse Zeit mussten wir alles Geld abgeben, damit sich unsere Schule
+einen Fernseher kaufen könne. Mindestens 2 Jahre hat die Schulleitung
+skrupellos das Geld kassiert, doch ein Fernsehgerät ist in meiner gesamten
+Schulzeit nicht angeschafft worden. Doch die hatten tausende Mark eingenommen.
+Da war sie wieder, die DDR-Verlogenheit und keiner traute sich, diese zu
+hinterfragen!
 
 Kein Elternteil, geschweige denn der gewählte Eltern-Beirat!
 
-<figure class="left"><a href="/bilder/097.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="DDR-Geldscheine" src="/bilder/thumb-097.png"></a><figcaption>DDR-Geldscheine <small><a href="http://it.wikipedia.org/wiki/File:DDRmark.jpg#file">(Quelle)</a></small></figcaption></figure>
- Wenn wir Schüler im Staatsbürgerkunde-Unterricht nachhakten,
+<figure class="right"><a href="/bilder/096.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="DDR-Mu&#x308;nzen" src="/bilder/thumb-096.png"></a><figcaption>DDR-Mu&#x308;nzen</figcaption></figure>
+Wenn wir Schüler im Staatsbürgerkunde-Unterricht nachhakten,
 stammelte unser Kurt nur _"dass das Geld noch nicht reiche"_.
 
 Doch rechnen habe ich auch bei ihm gelernt: Wenn jeder der 400 Schüler nur
@@ -31,6 +31,7 @@ zusammen gekommen, selbst wenn man alle Ferienzeiten noch absetzt.
 Die ostdeutsche Entertainerin Helga Hahnemann hat dazu später das passende
 Lied geträllert: _"Wo ist mein Geld nur geblieben? Wo, wo, wo?"_
 
+<figure class="left"><a href="/bilder/097.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="DDR-Geldscheine" src="/bilder/thumb-097.png"></a><figcaption>DDR-Geldscheine <small><a href="http://it.wikipedia.org/wiki/File:DDRmark.jpg#file">(Quelle)</a></small></figcaption></figure>
 Niemals haben wir erfahren, was mit dem Geld geschah.
 
 Alle größeren und rechnenden Schüler ahnten nun, dass das Direktorium log oder

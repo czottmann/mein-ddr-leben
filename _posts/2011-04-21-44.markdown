@@ -143,7 +143,7 @@ versagt! Denn ich bin im Kino neben ihr eingeschlafen; statt zu fummeln
 
 Diesmal würde alles besser laufen!
 
-<figure class="left"><a href="/bilder/169.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Haus AE36" src="/bilder/thumb-169.png"></a><figcaption>Haus AE36</figcaption></figure>
+<figure class="left"><a href="/bilder/169.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Haus Am Ehrenberg 36" src="/bilder/thumb-169.png"></a><figcaption>Haus AE36</figcaption></figure>
  Das Wichtigste für mich war erst einmal das Haus zu besichtigen. Elise
 Wolf war sofort vom Charmeur begeistert. Sie kam mir bei meiner
 Besichtigungstour gleich in den Garten nachgelaufen:

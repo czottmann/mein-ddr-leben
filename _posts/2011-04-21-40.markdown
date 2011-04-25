@@ -6,10 +6,10 @@ chapter: 40
 
 
 
-<figure class="left"><a href="/bilder/157.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker als Soldat" src="/bilder/thumb-157.png"></a><figcaption>Volker als Soldat</figcaption></figure>
- Wer etwa zwei weitere Stunden Zeit aufwenden möchte, sollte meinem
-Ratschlag folgend, nun erst ["Baupionier
-Zottmann"](http://baupionier.zottmann.org) separat weiterlesen.
+<figure class="right"><a href="/bilder/157.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker als Soldat" src="/bilder/thumb-157.png"></a><figcaption>Volker als Soldat</figcaption></figure>
+Wer etwa zwei weitere Stunden Zeit aufwenden möchte, sollte meinem Ratschlag
+folgend, nun erst ["Baupionier Zottmann"](http://baupionier.zottmann.org)
+separat weiterlesen.
 
 Das ist ein Geschichtsrückblick aus meiner Sicht auf meine aktive Militärzeit
 in der Nationalen Volksarmee der Deutschen Demokratischen Republik.

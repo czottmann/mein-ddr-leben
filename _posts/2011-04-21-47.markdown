@@ -7,11 +7,9 @@ chapter: 47
 
 
 <figure class="left"><a href="/bilder/173.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker am Badfenster" src="/bilder/thumb-173.png"></a><figcaption>Volker am Badfenster</figcaption></figure>
- <figure class="right"><a href="/bilder/174.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Haus v. Wasserturm" src="/bilder/thumb-174.png"></a><figcaption>Haus v. Wasserturm</figcaption></figure>
- <figure class="left"><a href="/bilder/175.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker auf dem Motorrad" src="/bilder/thumb-175.png"></a><figcaption>Volker auf dem Motorrad</figcaption></figure>
- Reimondes "Oma" ließ uns 1973 und in der Folgezeit das
-Dach ausbauen sowie ein Badezimmer einrichten, samt dazugehöriger Klärgrube.
-Das geschah schon alles mit unserem Geld, doch auch zu ihrem Nutzen.
+Reimondes "Oma" ließ uns 1973 und in der Folgezeit das Dach ausbauen sowie ein
+Badezimmer einrichten, samt dazugehöriger Klärgrube. Das geschah schon alles
+mit unserem Geld, doch auch zu ihrem Nutzen.
 
 Im Winter 1973/74 brauchte schon keiner mehr das "Plumsklo" besuchen. Ab jetzt
 musste niemand mehr einen verkühlten Hintern befürchten. Endlich herrschten
@@ -22,6 +20,7 @@ Das geschah alles neben meiner Arbeit und der abendlichen Meisterschule. Ich
 pendelte mit meinem Motorrad "MZ ES 175". Das war übrigens bis 1975 das
 einzige Fahrzeug, das uns zur Verfügung stand.
 
+<figure class="right"><a href="/bilder/174.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Haus v. Wasserturm" src="/bilder/thumb-174.png"></a><figcaption>Haus v. Wasserturm</figcaption></figure>
 1975 bekamen wir aber dann nach nur 5 Monaten Wartezeit einen fabrikneuen
 "Trabant 601 Universal". Der kostete 8.600.- Mark. (Als wir ihn 1980 weiter
 verkauften, bekamen wir 10.500.- Mark dafür.) Die Gebrauchtwagenpreise stiegen
@@ -33,6 +32,7 @@ Wir aber nicht! Denn wir waren nicht normal! Offiziell bekam Genossin Elise
 Wolf den Wagen über die VVN, das war die Vereinigung der Verfolgten des
 Naziregimes.
 
+<figure class="left"><a href="/bilder/175.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker auf dem Motorrad" src="/bilder/thumb-175.png"></a><figcaption>Volker auf dem Motorrad</figcaption></figure>
 August Wolf, ihr Mann, war am 8. März 1945 tot in seiner Gefängniszelle
 aufgefunden worden. Er hatte sich in der Nacht in Angst erhängt, denn als
 Mitglied der kleinen Widerstandsgruppe "Waldemar" wurden er und einige seiner
