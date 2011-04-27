@@ -31,6 +31,7 @@ a:hover {
   background-image: url(/img/carbon_fibre.gif);
   color: #ccc;
   text-shadow: 0 1px 1px #000;
+  border-bottom: 3px solid #bbb;
 }
 
 header h1 {
@@ -81,6 +82,7 @@ header h2, h3, h4, h5, h6 {
   color: #ccc;
   text-shadow: 0 1px 1px #000;
   font-family: Helvetica, Arial, sans-serif;
+  border-top: 3px solid #bbb;
 }
 
 #foot a {
