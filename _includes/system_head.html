@@ -2,16 +2,20 @@
 <!--[if lt IE 7 ]> <html lang="de" class="no-js ie6"> <![endif]-->
 <!--[if IE 7 ]>    <html lang="de" class="no-js ie7"> <![endif]-->
 <!--[if IE 8 ]>    <html lang="de" class="no-js ie8"> <![endif]-->
+<!--[if lt IE 9]>  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--> <html lang="de" class="no-js"> <!--<![endif]-->
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" href="/favicon.ico">
 	<meta name="google-site-verification" content="{{ site.sitemap }}">
+	
 	<link rel="stylesheet" media="all" href="/css/reset.css">
   <link rel="stylesheet" media="all" href="/css/text.css">
   <link rel="stylesheet" media="all" href="/css/960.css">
+	<link rel="stylesheet" media="all" href="/css/facebox.css">
 	<link rel="stylesheet" media="all" href="/css/style.css">
+
 	<link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
 
@@ -20,10 +24,10 @@
 	<title>{{ site.sitename }}</title>
 	  <meta http-equiv="refresh" content="0;url=/01.html">
 	{% when 'post' %}
-		<title>{{ site.sitename }} &rarr; {{ page.title }}</title>
+		<title>{{ site.sitename }} &raquo; {{ page.title }}</title>
 		<meta name="description" content="{{ content | strip_html | truncatewords: 25 }}">
 	{% else %}
-	  <title>{{ site.sitename }} &rarr; {{ page.title }}</title>
+	  <title>{{ site.sitename }} &raquo; {{ page.title }}</title>
 		<meta name="description" content="{{ page.description }}">
 	{% endcase %}
 </head>

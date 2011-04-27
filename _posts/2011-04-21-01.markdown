@@ -4,15 +4,16 @@ title: Kurzes Vorwort
 chapter: 1
 ---  
 
-
-
 <figure class="right"><a href="/bilder/002.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker Zottmann" src="/bilder/thumb-002.png"></a><figcaption>Volker Zottmann</figcaption></figure>
 
-
-> Ich wurde geboren, ohne es zu wollen.  
-> Ich werde sterben, ohne dass ich es möchte.  
-> So lasst mich wenigstens leben wie ich es will!
-
+<blockquote class="big">
+  <p>
+    Ich wurde geboren, ohne es zu wollen.<br>
+    Ich werde sterben, ohne dass ich es möchte.<br>
+    So lasst mich wenigstens leben wie ich es will!
+  </p>
+</blockquote>
+  
 Lieber Leser, es ist erstaunlich, was so ein vergleichsweise kleines
 Menschenhirn alles in 59 Jahren speichern kann!
 
