@@ -97,9 +97,9 @@ Brot wegwerfe.
 Der hohe Wert all unserer Lebensmittel wurde mir hier ganz unbewusst
 vermittelt.
 
-<figure class="right"><a href="/bilder/020.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Brikett" src="/bilder/thumb-020.png"></a><figcaption>Brikett</figcaption></figure>
- Die Toilette war eine halbe Treppe tiefer als Gemeinschaftsörtchen auf
-dem Treppenabsatz eingebaut.
+<figure class="right"><img title="Brikett" src="/bilder/thumb-020.png"><figcaption>Brikett</figcaption></figure>
+Die Toilette war eine halbe Treppe tiefer als Gemeinschaftsörtchen auf dem
+Treppenabsatz eingebaut.
 
 Im Keller bewahrte Oma noch als ihre eiserne Reserve ein paar Zentner lange
 Krupp-Briketts auf. Die sollten erst in absoluten Notzeiten verbrannt werden,

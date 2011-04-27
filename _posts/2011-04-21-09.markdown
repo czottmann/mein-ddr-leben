@@ -94,11 +94,10 @@ heute in den Ohren.
 Solche kleinen schönen Läden mit ihren banalen Besonderheiten gibt es leider
 nicht mehr. Unsere Welt wird ärmer …
 
-<figure class="right"><a href="/bilder/028.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Kuchen" src="/bilder/thumb-028.png"></a><figcaption>Kuchen</figcaption></figure>
- <figure class="left"><a href="/bilder/029.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Kaugummi" src="/bilder/thumb-029.png"></a><figcaption>Kaugummi</figcaption></figure>
- Hatte ich mal Dank verkaufter Altstoffe einen Groschen über,
-konnte ich mir beim Bäcker Streithoff einen Amerikaner oder eine
-Streuselschnecke leisten.
+<figure class="right"><img title="Kuchen" src="/bilder/thumb-028.png"><figcaption>Kuchen</figcaption></figure>
+<figure class="left"><img title="Kaugummi" src="/bilder/thumb-029.png"><figcaption>Kaugummi</figcaption></figure>
+Hatte ich mal Dank verkaufter Altstoffe einen Groschen über, konnte ich mir
+beim Bäcker Streithoff einen Amerikaner oder eine Streuselschnecke leisten.
 
 Oder zwei Häuser daneben beim Kaufmann Meyer 3½ Kaugummi-Kissen. Der schnitt
 das vierte zwei Zentimeter große Kaugummi wirklich durch. Ich staunte dann,
@@ -107,7 +106,7 @@ dass er mir "großzügig" somit einen halben Pfennig schenkte …
 Als Bäcker Streithoff eine neue Verkäuferin beschäftigte, brachen für mich
 kurzzeitig tolle Tage an. Ich sah Bäckerssohn Thomas offenbar recht ähnlich,
 jedenfalls verwechselte die gute Frau uns immer. Wenn ich nun eintrat und um
-eine Streuselschnecke bat, übergab sie mir die mit "bitte Thomas". Das war
+eine Streuselschnecke bat, übergab sie mir die mit _"bitte, Thomas"_. Das war
 Klasse, nur noch danken und nichts mehr bezahlen …
 
 Ich weiß nicht, ob der Bäckerladen überlebte. Schuldgefühle habe ich aber nie

@@ -44,7 +44,7 @@ Geburtstag. Es wäre für meine Eltern, sprich meine Mutter, ein Klacks gewesen
 es zu erlauben, mich wenigstens kurzzeitig gehen zu lassen, denn D's wohnten
 nur 4 Häuser entfernt. Es ging aber nicht, es sollte nicht sein!
 
-Diktatorisch wurde verkündet: "Du feierst mit deiner Schwester!"
+Diktatorisch wurde verkündet: _"Du feierst mit deiner Schwester!"_
 
 Das war für mich unverständlich und mehr als gemein. In dem Alter hinterfragte
 ja auch Christian mein Fernbleiben nicht weiter. Er registrierte nur, dass der
@@ -79,8 +79,8 @@ immer wieder. Ich bekam eingebleut, dass wir zu Hause eine Arbeiterfamilie
 seien. Doch das war schlichtweg gelogen. Meine soziale Herkunft war eindeutig
 "Angestellte". Das hatte ich als Kind bereits begriffen.
 
-Dies spiele keine Rolle, bestimmte meine Mutter. "Wenn dich wer fragt, sind
-wir Arbeiter! Punkt! Oma und Opa waren auch schon immer Arbeiter!" Zu denen
+Dies spiele keine Rolle, bestimmte meine Mutter. _"Wenn dich wer fragt, sind
+wir Arbeiter! Punkt! Oma und Opa waren auch schon immer Arbeiter!"_ Zu denen
 wurde ich allerdings nicht befragt.
 
 Erklären kann man das unmögliche Ansinnen allen nachfolgenden Generationen nur
@@ -125,7 +125,7 @@ unregelmäßigen Abständen eine Unmenge von Demütigungen und Ungerechtigkeiten
 wie wohl kein weiteres Kind in meiner Altersriege.
 
 <figure class="left"><a href="/bilder/033.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Ausklopfer" src="/bilder/thumb-033.png"></a><figcaption>Ausklopfer</figcaption></figure>
- Und wenn ein Kind wenig Aufmerksamkeit in der Familie erlebt oder dies
+Und wenn ein Kind wenig Aufmerksamkeit in der Familie erlebt oder dies
 zumindest so empfindet, kompensiert es dieses Manko durch Albernheiten oder
 Rüpeleien, auch, oder gerade in der Schule. Mir jedenfalls ging es so.
 
