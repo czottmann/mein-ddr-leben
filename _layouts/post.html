@@ -1,32 +1,101 @@
 {% include system_head.html %}
+
 <body class="{{ page.layout }}">
-	<div id="page">
-		{% include header.html %}
-		<div id="main" role="main">
-			<div class="main_inner">
-				<header class="hd_article">
-					<h1>{{ page.title }}</h1>
-				</header>
-				<article class="the_article">
-				<div class="article_inner">
-					<div class="content">{{ content }}</div>
-				</div>
-				</article>
-			</div>
-		</div><!-- id="main" -->
-		<nav class="pagenation">
-  		<ul>
-  		{% if page.previous %}
-  			<li class="before left"><a rel="prev" href="{{ page.previous.url }}" class="btn">Vorheriges Kapitel</a></li>
-  		{% endif %}
-  		<li class="middle"><a rel="toc" href="/02.html" class="btn">Inhalt</a></li>
-  		{% if page.next %}
-  			<li class="next right"><a rel="next" href="{{ page.next.url }}" class="btn">N&auml;chstes Kapitel</a></li>
-  		{% endif %}
-  		</ul>
+  
+  <div id="heading">
+
+    <header class="container_12">
+    	<h1 class="grid_12">
+    	  <a href="/">{{ site.sitename }}</a>
+    	  <span class="tagline">{{ site.tagline }}</span>
+    	</h1>
+    	<h2 class="grid_12">{{ page.title }}</h2>
+    </header>
+
+    <div class="clear"></div>
+	</div>
+
+
+  <div class="clear"></div>
+
+
+  <div id="content" class="container_12">
+    <article role="main" class="grid_12">
+			{{ content }}
+		</article>
+	</div>
+
+
+  <div class="clear"></div>
+
+
+  <div id="pagination">
+		<nav class="container_12">
+  		<div class="grid_4 prev">
+{% if page.previous %}
+		    <a rel="prev" href="{{ page.previous.url }}" class="btn">Vorheriges Kapitel</a>
+  		</div>
+  		<div class="grid_4 toc">
+{% else %}
+  		</div>
+  		<div class="grid_4 toc prefix_4">
+{% endif %}
+  		  <a rel="toc" href="/02.html" class="btn">Inhalt</a>
+  		</div>
+  		<div class="grid_4 next">
+    		{% if page.next %}
+    			<a rel="next" href="{{ page.next.url }}" class="btn">N&auml;chstes Kapitel</a>
+    		{% endif %}
+		  </div>
 		</nav>
-		{% include footer.html %}
-	</div><!-- id="page" -->
+
+    <div class="clear"></div>
+	</div>
+
+
+  <div class="clear"></div>
+
+
+  <div id="foot">
+    <footer class="container_12">
+
+    	<aside class="grid_6" id="about">
+        <h4>"Mein DDR-Leben"</h4>
+        <p>
+          Ein Geschichtsrückblick aus meiner Sicht auf mein Leben in der Deutschen Demokratischen Republik.  Alles basiert auf meinen Erinnerungen.  Namen der Beteiligten wurden von mir aus rechtlichen Gründen verändert.
+        </p>
+        <p>
+          (c) 2011 Volker Zottmann, vr@zottmann.org
+        </p>
+      </aside>
+
+    	<aside class="grid_6" id="links">
+        <h4>Andere Seiten</h4>
+        <ul>
+          <li><a href="http://baupionier.zottmann.org">Baupionier Zottmann</a></li>
+          <li><a href="http://bit.ly/vzottmann-sf">Volker bei StayFriends</a></li>
+          <li><a href="http://bit.ly/vzottmann-wkw">Volker bei Wer-Kennt-Wen</a></li>
+        	<li><a href="http://on.fb.me/fy8pSK">Volker bei Facebook</a></li>
+        </ul>
+    	</aside>
+  	
+    	<aside class="grid_12" id="impressum">
+        <p>
+          <strong>Impressum:</strong> Carlo Zottmann, Zeisigweg 30, 81827 München, Tel 0176 / 9687 5739, carlo@zottmann.org.
+          <strong>Inhaltlich Verantwortlicher gemäß §10 Absatz 3 MDStV:</strong> Volker Zottmann, Fischerberg 12, 06493 Harzgerode, Tel 039484 / 975590, vr@zottmann.org.
+          <strong>Haftungshinweis:</strong> Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+        </p>
+        <p>
+          Background patterns (c) <a href="http://subtlepatterns.com/">Subtle Patterns</a>.
+        </p>
+      </aside>
+    
+    </footer>
+
+    <div class="clear"></div>
+	</div>
+	
 	{% include system_foot.html %}
+
 </body>
 </html>
