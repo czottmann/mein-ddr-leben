@@ -2,21 +2,35 @@
 
 <body class="{{ page.layout }}">
   
-  <div class="container_12">
+  <div id="heading">
 
-    <header class="grid_12">
-    	<h1>
+    <header class="container_12">
+    	<h1 class="grid_12">
     	  <a href="/">{{ site.sitename }}</a>
     	  <span class="tagline">{{ site.tagline }}</span>
     	</h1>
-    	<h2>{{ page.title }}</h2>
+    	<h2 class="grid_12">{{ page.title }}</h2>
     </header>
 
+    <div class="clear"></div>
+	</div>
+
+
+  <div class="clear"></div>
+
+
+  <div id="content" class="container_12">
     <article role="main" class="grid_12">
 			{{ content }}
 		</article>
+	</div>
 
-		<nav class="pagenation">
+
+  <div class="clear"></div>
+
+
+  <div id="pagination">
+		<nav class="container_12">
   		<div class="grid_4 prev">
 {% if page.previous %}
 		    <a rel="prev" href="{{ page.previous.url }}" class="btn">Vorheriges Kapitel</a>
@@ -35,8 +49,15 @@
 		  </div>
 		</nav>
 
+    <div class="clear"></div>
+	</div>
 
-    <footer>
+
+  <div class="clear"></div>
+
+
+  <div id="foot">
+    <footer class="container_12">
 
     	<aside class="grid_6" id="about">
         <h4>"Mein DDR-Leben"</h4>
@@ -57,7 +78,7 @@
         	<li><a href="http://on.fb.me/fy8pSK">Volker bei Facebook</a></li>
         </ul>
     	</aside>
-    	
+  	
     	<aside class="grid_12" id="impressum">
         <p>
           <strong>Impressum:</strong> Carlo Zottmann, Zeisigweg 30, 81827 München, Tel 0176 / 9687 5739, carlo@zottmann.org.
@@ -65,9 +86,10 @@
           <strong>Haftungshinweis:</strong> Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
         </p>
       </aside>
-      
+    
     </footer>
 
+    <div class="clear"></div>
 	</div>
 	
 	{% include system_foot.html %}
