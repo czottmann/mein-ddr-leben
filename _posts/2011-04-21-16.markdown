@@ -1,14 +1,14 @@
----  
+---
 layout: post
 title: Unsere Urlaube und andere Begebenheiten
 chapter: 16
----  
+---
 
 
 
 1959 wurde unser "halber P 70" gepackt. Das war bei dieser "Limousine" aber
 nicht ganz einfach. Der Wagen hatte zwar einen Kofferraum, aber keine
-Kofferraumklappe. Die war in der DDR noch nicht erfunden. Da das Gefährt nur 
+Kofferraumklappe. Die war in der DDR noch nicht erfunden. Da das Gefährt nur
 2 Türen besaß, mussten alle Ferienutensilien durch die Beifahrertür über die
 hintere Sitzbank geschoben werden. Die hintere Rückenlehne musste natürlich
 zuvor entfernt werden, um das Gepäck zu verstauen, bis in den Kofferraum zu
@@ -163,7 +163,7 @@ Sport-Arbeitsgemeinschaften. Und es wurde außerschulische Nachhilfe für die
 schwachen Schüler organisiert. Unsere Schulwochen waren somit oft fast
 Volltag-Jobs, sofern man sich daran beteiligte. Außer mittwochs war alles
 freiwillig.
-,,,,-----
+
 Und jeder Schüler konnte für anfangs 30 Pfennige an der Schulspeisung, dem
 Mittagessen teilnehmen.
 

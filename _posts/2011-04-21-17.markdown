@@ -1,8 +1,8 @@
----  
+---
 layout: post
 title: 1961, das traurige Jahr
 chapter: 17
----  
+---
 
 
 
@@ -27,7 +27,7 @@ Diese Mauer strafte unseren ersten Mann im Staate, Walter Ulbricht, Lügen, denn
 der hatte noch 2 Monate zuvor lauthals verkündet, dass niemand eine solche
 Absicht habe. Der log ohne rot zu werden!
 
-<figure class="left"><a href="/bilder/048.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="West-Berlin / Mauer / Wachturm / Vor-Mauer / Fernsehturm Ost-Berlin" src="/bilder/thumb-048.png"></a><figcaption>Fernsehturm Ost-Berlin / Vor-Mauer / Wachturm / Mauer / West-Berlin <small><a href="http://de.wikipedia.org/w/index.php?title=Datei:Bundesarchiv_Bild_175-V00-02081,_Berlin,_Brandenburger_Tor,_Luftbild.jpg&amp;filetimestamp=20091127202603#file">(Quelle)</a></small></figcaption></figure>
+<figure class="left"><a href="/bilder/048.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="West-Berlin / Mauer / Wachturm / Vor-Mauer / Fernsehturm Ost-Berlin" src="/bilder/thumb-048.png"></a><figcaption>Berlin <small><a href="http://de.wikipedia.org/w/index.php?title=Datei:Bundesarchiv_Bild_175-V00-02081,_Berlin,_Brandenburger_Tor,_Luftbild.jpg&amp;filetimestamp=20091127202603#file">(Quelle)</a></small></figcaption></figure>
 
 Der war nach 1945 in der Sowjetischen Besatzungszone, ab 1949 dann DDR,
 maßgeblich an den Verhaftungen von 340.000 Menschen und an dem Massenmord von
