@@ -1,8 +1,8 @@
----  
+---
 layout: post
 title: Inhaltsverzeichnis
 chapter: 2
----  
+---
 
 * [Kurzes Vorwort](/01.html)
 * [Meine Ankunft und Taler, Taler Du musst wandern](/03.html)
@@ -30,7 +30,6 @@ chapter: 2
 * [Volkers böse Taten](/25.html)
 * [Die Mundräuber vom Mummental](/26.html)
 * [Das Denkmal](/27.html)
-* [Erniedrigungen](/28.html)
 * [Postraub oder: Die wahren Räuber](/29.html)
 * [Harzreisen mit Bauchschmerzen](/30.html)
 * [Meine Jugendweihe](/31.html)

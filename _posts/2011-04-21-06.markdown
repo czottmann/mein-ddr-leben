@@ -7,12 +7,7 @@ chapter: 6
 
 
 Der Quedlinburger Bahnhof empfing uns, wie alle Reisenden Jahre und Jahrzehnte
-später auch, öde und grau. Keineswegs einladend oder begrüßend …
-
-(Heute, im Jahr 2010, so war unlängst in der Presse zu lesen, wird er sogar
-als Klotür zur Stadt Quedlinburg wahrgenommen, so verkommen ist derweil sein
-direktes Umfeld.)
-
+später auch.
 Wir hatten noch einen langen Fußmarsch vor uns, bis in die Bergstraße 3, genau
 dem Bismarckhain in der Süderstadt gegenüber, unsere neue Adresse. Das dauert
 vom Bahnhof höchstens 8 Minuten, aber damals erschien mir alles weiter und
@@ -22,9 +17,9 @@ Nur eins war recht klein und im Körbchen versteckt, mein neuestes Spielzeug,
 meine Schwester! Und auf der Anrichte saß ein süßes braunes
 Marzipan-Eichhörnchen.
 
-Ich kann mich zu 100% an diesen Abend erinnern!
+Ich kann mich zu 100 % an diesen Abend erinnern!
 
-<figure class="left"><a href="/bilder/013.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Elke + Volker, 1955" src="/bilder/thumb-013.png"></a><figcaption>Elke + Volker, 1955</figcaption></figure>
+<figure class="left"><a href="/bilder/013.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Geschwister 1955" src="/bilder/thumb-013.png"></a><figcaption> 1955</figcaption></figure>
  Nun war fast alles schöner, ich hatte meine Eltern endlich wieder,
 aber eben nicht mehr allein …
 
@@ -112,11 +107,11 @@ Sie war immer mit Enthusiasmus und Freude bei ihrer Arbeit. Eine wirkliche
 sanftmütige, stete und nachhaltige Erziehung konnte sie dadurch aber schon aus
 Zeitmangel nicht leisten.
 
-<figure class="right"><a href="/bilder/016.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Reinhold + Kinder, 1958" src="/bilder/thumb-016.png"></a><figcaption>Reinhold + Kinder, 1958</figcaption></figure>
- <figure class="left"><a href="/bilder/017.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Sigrid + Kinder, 1958" src="/bilder/thumb-017.png"></a><figcaption>Sigrid + Kinder, 1958</figcaption></figure>
+<figure class="right"><a href="/bilder/016.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="1958" src="/bilder/thumb-016.png"></a><figcaption>Reinhold + Kinder, 1958</figcaption></figure>
+ <figure class="left"><a href="/bilder/017.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="1958" src="/bilder/thumb-017.png"></a><figcaption>Sigrid + Kinder, 1958</figcaption></figure>
  Lediglich zu unseren jährlichen 3-Wochen-Urlaubszeit war
 unsere Familie so, wie ich sie mir immer wünschte. Hier hatten meine Eltern
-immer für uns Zeit. Doch 3 tolle Wochen können keine Jahre aufwiegen.
+immer uneingeschränkt für uns Zeit. 
 
 Heute, mehr denn je, bin ich der Auffassung, dass weder Geld, noch die eigene
 Karriere es Wert sind, sich nicht zu allererst selbst um seine Kinder zu
@@ -129,7 +124,7 @@ Geschichte, im besonderen die der DDR, bewiesen.
 
 Staatsgefüge vergehen, aber Familien bleiben bestehen!
 
-Und nur die verdienen, zu allererst gehegt und behütet zu werden.
+Und nur **die** verdienen, zu allererst gehegt und behütet zu werden.
 
 Wenn jemand nicht bereit ist, die ersten Jahre vorrangig seinem Kind zu
 widmen, sollte er sich besser, so mein Empfinden, keine anschaffen.

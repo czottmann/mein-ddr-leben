@@ -1,8 +1,8 @@
----  
+---
 layout: post
 title: Harzreisen mit Bauchschmerzen
 chapter: 30
----  
+---
 
 
 
@@ -39,7 +39,7 @@ seinem Leben …
 In den Sommern fuhren wir nun öfters in den Harz, während der Touren
 entdeckten wir auch hin und wieder "Neuland". Der Nationale Verteidigungsrat
 löste sporadisch, aber dennoch nur spärlich, einzelne Teile des
-Grenzschutzstreifens aus dem 5km breiten Sperrgebiet heraus. So wurde dieses
+Grenzschutzstreifens aus dem 5 km breiten Sperrgebiet heraus. So wurde dieses
 teilweise etwas schmaler und bisherige Sperrgebietsteile konnten nun wieder
 ohne Passierschein und von allen DDR-Bürgern betreten oder befahren werden. So
 auch Tanne.
@@ -78,15 +78,16 @@ gestaltet wurde.
 
 So wurden ab 1969 lückenlos Beton-Wachtürme errichtet und ab Januar 1970 der
 perfide Plan, dass sich die Grenzverletzer gefälligst selbst erschießen mögen,
-radikal umgesetzt. An weiten Strecken des Metallgitterzaunes, etwa 440km,
+radikal umgesetzt. An weiten Strecken des Metallgitterzaunes, etwa 440 km,
 wurden mindestens 60.000 trichterförmige Selbstschussvorrichtungen vom Typ
-SM70 installiert. Die waren mit jeweils 100g TNT-Sprengstoff und 80 bis 110
+SM70 installiert. Die waren mit jeweils 100 g TNT-Sprengstoff und 80 bis 110
 scharfkantigen Metallteilen bestückt und wurden durch Stolperdrähte von den
 potentiellen "Grenzverletzern" von Ost nach West selbst ausgelöst. Dadurch
 verendeten aber auch massenhaft Wildtiere jeder Größe. Diese Automaten
-schossen dann streuend bis 120m weit. Falls die Flüchtenden nicht bereits
+schossen dann streuend bis 120 m weit. Falls die Flüchtenden nicht bereits
 zuvor durch eine vergrabene Plastik-Personenmine zerfetzt wurden.
 
+<figure class="left"><a href="/bilder/122.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Selbstschussanlage" src="/bilder/thumb-122.png"></a><figcaption>Selbstschussanlage <small><a href="http://de.wikipedia.org/w/index.php?title=Datei:Spring-gun_Selbstschussanlage.JPG&amp;">(Quelle)</a></small></figcaption></figure>
 Auf solch abscheuliche hinterhältige Weise wurde der 25-jährige aus Parchim
 stammende DDR-Bürger Wolfgang Vogler am 14. Juli 1974 um 18:40 Uhr bei seinem
 Fluchtversuch gleich von drei Selbstschussautomaten SM70 niedergestreckt.
@@ -94,7 +95,6 @@ Fluchtversuch gleich von drei Selbstschussautomaten SM70 niedergestreckt.
 Als dieser Automatenmord geschah, war unser Sohn Carlo gerade knapp 2 Monate
 alt!
 
-<figure class="left"><a href="/bilder/122.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Selbstschussanlage" src="/bilder/thumb-122.png"></a><figcaption>Selbstschussanlage <small><a href="http://de.wikipedia.org/w/index.php?title=Datei:Spring-gun_Selbstschussanlage.JPG&amp;">(Quelle)</a></small></figcaption></figure>
 Das geschah hinter Benneckenstein, an der Demarkationslinie bei Hohegeiß im
 Harz. Dieser Flüchtling ist leider nicht der einzige, bei Hohegeiß Ermordete.
 
@@ -168,7 +168,7 @@ war hier Schluss! So hatten trotz schönster Naturkulisse meine Harzfahrten oft
 einen faden Beigeschmack.
 
 Selbst auf vielen unserer Schul-DDR-Landkarten und Berlin-Karten war an der
-Westgrenze Schluss.Alles westlich davon war über viele Jahre weißes Papier.
+Westgrenze Schluss. Alles westlich davon war über viele Jahre weißes Papier.
 Der Westteil wurde freigelassen, ausgespart, nicht kartographiert. Hinter
 Tanne/Sorge also begann offensichtlich die Arktis, denn alles war weiß!
 

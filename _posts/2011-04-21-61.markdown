@@ -1,8 +1,8 @@
----  
+---
 layout: post
 title: Macht auf das Tor … Ich reise gen Westen
 chapter: 61
----  
+---
 
 
 
@@ -27,7 +27,7 @@ Ich wusste nun schon durch eigenes Erleben, dass man hier bereits im Flur von
 der Stasi abgehört wird. Ich würde zu gern wissen, wie viele von den
 Antragstellern getarnte Stasi-Leute waren, die nur so im Flur rumlungerten um
 anständige Bürger auszuhorchen. Hätten damals alle Stasis geleuchtet, wäre
-Quedlinburg nachts selbst ohne Straßenlaternen taghell gewesen.
+Quedlinburg nachts selbst ohne Straßenlaternen taghell gewesen. ;)
 
 Zu viele reiselustige Mitmenschen hatten die gleiche Honecker-Botschaft
 vernommen und eine vage Hoffnung im Bauch, jedenfalls musste auch ich sehr
@@ -46,7 +46,7 @@ der Polizei geblieben. Mich kannte der auf einmal nicht mehr. Ganz schön
 vergesslich war der Genosse Polizist …
 
 Übrigens hat sein eigener Klassenfeind ihn nach der Wende übernommen und
-dieser Wendehals tut heute noch dort, nun sogar als Amtsleiter seinen Dienst.
+dieser Wendehals tut heute noch dort, nun sogar in höherer Stellung seinen Dienst.
 Dessen Rente hätte ich gern …
 
 Mein großes Glück war, dass meine "Sprich"-Tante Aenne am 11. März des
@@ -59,10 +59,10 @@ Parallel musste mein alter Arbeitgeber umgehend eine Beurteilung über mich
 anfertigen. Die brauchte die Staatssicherheit bei jedem Antragsteller zur
 "Entscheidungsfindung".
 
-Diese Aufgabe übernahm der lispelnde gutmütige Parteisekretär Gerhard K. .Der
+Diese Aufgabe übernahm der mein lispelnde gutmütige Parteisekretär. Der
 lispelte am meisten wenn er log. Seine arme Sekretärin wird beim Schreiben
-meiner Beurteilung einen feuchten Nacken gehabt haben. Gerhard muss über mich
-Sachen diktiert haben, dass sich die Balken bogen. Er log "sozialistisch", zu
+meiner Beurteilung einen feuchten Nacken gehabt haben. Er muss über mich
+Sachen diktiert haben, dass sich die Balken bogen ... log "sozialistisch", zu
 meinen Gunsten …
 
 Nun musste Tante Aenne nur noch sicherheitshalber meine "echte" Tante werden.
@@ -96,7 +96,7 @@ besuchen!"_
 Das Eis war gebrochen, obwohl wir nicht ganz alleine im Raum waren. Da standen
 immer noch "unbeteiligte Mitarbeiter" (Horcher und Gucker) rum …
 
-Nach auseinander klamüsern wie wir, also Tante Aenne und ich, nun verwandt
+Nach "auseinanderklamüsern" wie wir, also Tante Aenne und ich, nun verwandt
 seien, bekam meine Antragskarte ohne große Nachfrage das Kreuzchen offenbar an
 der richtigen Stelle. Hier hat Mielkes Geheimpolizei kläglich versagt.
 
@@ -180,15 +180,14 @@ wollte, ergaben wir uns der Enge. So brauchte im wahrsten Sinne des Wortes
 keiner zu frieren. Draußen nicht und erst recht nicht drinnen.
 
 <figure class="left"><a href="/bilder/214.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Zollkontrolle" src="/bilder/thumb-214.png"></a><figcaption>Zollkontrolle <small><a href="http://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-L0330-0033,_Potsdam,_Grenz%C3%BCbergang_Drewitz-Dreilinden,_Kontrolle_in_Bus.jpg#file">(Quelle)</a></small></figcaption></figure>
- <figure class="right"><a href="/bilder/215.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Soldaten + Hund" src="/bilder/thumb-215.png"></a><figcaption>Soldaten + Hund <small><a href="http://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-42998-0006,_Grenzpolizei_der_DDR,_Streife_mit_F%C3%A4hrtenhund.jpg#file">(Quelle)</a></small></figcaption></figure>
- Spätestens nach Passieren von Oebisfelde hasste
+Spätestens nach Passieren von Oebisfelde hasste
 ich den Staat mehr denn je. Es ist ein Unterschied, ob man von Schikanen hört,
 oder sie selbst hautnah miterleben muss! Diese sture staatliche Willkür!
 
 Überfallartig betrat ein ganzes "Prüfgremium" Uniformierter den Waggon.
 Zeitgleich wurde dieser von außen abgeschlossen!
 
-Zwei, drei Leute prüften unsereReisepapiere, einer war mit Pässen stempeln und
+Zwei, drei Leute prüften unsere Reisepapiere, einer war mit Pässen stempeln und
 Geldwechsel für westdeutsche Reisende beschäftigt.
 
 Ein weiteres Geschwader widmete sich dem Waggon selbst. Wer bisher nicht
@@ -199,7 +198,8 @@ herum, suchten Republikflüchtlinge, arme Seelen ohne Pässe. Das geschah im
 ganzen langen Interzonenzug zeitgleich, in jedem Abteil. Denn deren
 Zeitfenster betrug ohne Zwischenfälle "nur" 40 Minuten.
 
-Derzeit waren bestimmt im Zug 50 oder noch mehr Uniformierte beschäftigt,
+<figure class="right"><a href="/bilder/215.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Spürhunde" src="/bilder/thumb-215.png"></a><figcaption>Soldaten + Hund <small><a href="http://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-42998-0006,_Grenzpolizei_der_DDR,_Streife_mit_F%C3%A4hrtenhund.jpg#file">(Quelle)</a></small></figcaption></figure>
+ Derzeit waren bestimmt im Zug 50 oder noch mehr Uniformierte beschäftigt,
 abgesehen vom eigentlichen Grenzpersonal. Das lief außen um die umstellten
 Wagen. Hundeführer scheuchten ihre abgerichteten Kampfmaschinen unter die
 Waggons, nichts wäre denen verborgen geblieben. Ich empfinde dafür auch heute
@@ -215,7 +215,7 @@ Prozedere diskreditierte sich der Staat selbst immer offensichtlicher.
 Tausende durften nun handverlesen reisen, und ein Jeder erzählte anschließend
 von unwürdigen Schikanen.
 
-<figure class="left"><a href="/bilder/216.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Grenze + Schienen" src="/bilder/thumb-216.png"></a><figcaption>Grenze + Schienen <small><a href="http://commons.wikimedia.org/wiki/File:Grenze.png">(Quelle)</a></small></figcaption></figure>
+<figure class="left"><a href="/bilder/216.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Grenze" src="/bilder/thumb-216.png"></a><figcaption>Grenze + Schienen <small><a href="http://commons.wikimedia.org/wiki/File:Grenze.png">(Quelle)</a></small></figcaption></figure>
  Jeder sah nun bei Ausfahrt unseres Zuges einen kilometerlangen
 Stacheldrahtkorridor durchs Niemandsland, durch den die Züge nach der
 Kontrolle im Schritttempo fuhren. Unmenschlich!
@@ -226,7 +226,7 @@ Von einem "Arbeiter- und Bauernstaat" verbrochen! Das war der Ausgang aus dem
 Man spürte, wie der ganze Zug sich schlagartig aus den Federn hob. So viele
 Steine sind da gleichzeitig den Reisenden von den Herzen gepurzelt.
 
-Uns regierte in den letzten Jahren eine gefährliche, abnorm verblödete alte
+Uns regierte in den letzten Jahren eine gefährliche, vertrottelte alte
 Riege, die meisten borniert und nicht mehr lernfähig. Die lebten ihre Dummheit
 aus, ohne es zu merken. Doch noch schlimmer war, dass sich ein ganzes Volk
 solange hat demütigen lassen!
@@ -309,16 +309,14 @@ in Auge wesentlich schöner und entspannter. Wir haben gelacht. Um mich richtig
 einordnen zu können, brauchte Eva jedoch noch etwas mehr Zeit …
 
 Jetzt folgte Tante Aennes große Jubelfeier. Volker, der Sohn Annelies, damals
-etwa
-
-13 Jahre alt, saß mir direkt gegenüber. Der schaute ganz gespannt, wie sein
+etwa 13 Jahre alt, saß mir direkt gegenüber. Der schaute ganz gespannt, wie sein
 Namensvetter, dieses "gelernte Ossi", seinen "Nordland-Salm im Wurzelsud" nun
 unter der Nase in den Mund schob. Für ihn war ich offenbar der erste
 leibhaftige jüngere Ostdeutsche, ein absoluter Exot. Alle bisher gesehenen
 Ossis waren betagte Rentner. Und nun ich! So hatten hier alle Altersgruppen
 ihren Spaß.
 
-<figure class="right"><a href="/bilder/217.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker und Tante Aenne" src="/bilder/thumb-217.png"></a><figcaption>Volker und Tante Aenne</figcaption></figure>
+<figure class="right"><a href="/bilder/217.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="meine Tante Aenne" src="/bilder/thumb-217.png"></a><figcaption>Volker und Tante Aenne</figcaption></figure>
  Annelie und Uwe luden mich noch zu einer abendlichen Käse-Wein-Tafel
 ein. Erhard und Edith machten mit mir eine spritzige Stadtrundfahrt samt
 Flughafenbesuch,

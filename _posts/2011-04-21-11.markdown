@@ -36,7 +36,7 @@ Frau Haider (und wer noch zur Begleitung anwesend war, ist mir nicht mehr
 erinnerlich) evakuierten uns in Windeseile geistesgegenwärtig vom Ort des
 Geschehens.
 
-<figure class="right"><a href="/bilder/032.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker, 1960" src="/bilder/thumb-032.png"></a><figcaption>Volker, 1960</figcaption></figure>
+<figure class="right"><a href="/bilder/032.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="1960" src="/bilder/thumb-032.png"></a><figcaption>Volker, 1960</figcaption></figure>
 Wir kamen allesamt mit dem Schrecken davon. Maximale 10 Meter entschieden hier
 zwischen Leben und Tod. Nicht auszudenken, wäre der Tank ein paar Meter näher
 eingeschlagen oder gar explodiert …
@@ -55,5 +55,5 @@ auf dem Zeugnis, die unsere Praktikantin, Fräulein Scherich, sehr bedauerte.
 Erteilt wurde sie mir von Klassenlehrerin Frau Novak.
 
 Wären jedoch alle Lehrer wie mein Fräulein Scherich gewesen, hätte ich
-bestimmt mit einer Eins geglänzt.
+bestimmt mit einer Eins geglänzt. ;)
 

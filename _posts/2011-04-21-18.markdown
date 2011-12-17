@@ -1,8 +1,8 @@
----  
+---
 layout: post
 title: Viel neues Unheil
 chapter: 18
----  
+---
 
 
 
@@ -28,7 +28,7 @@ schäbigen Marschgepäck.
 Auch wir waren für die jungen Soldaten sicher eine willkommene Abwechselung.
 Doch sobald es nieselte oder Regen fiel, verschwanden wir in unseren
 Wohnungen. Sie aber mussten weiter Wache schieben, sinnlos dem Wetter
-ausgesetzt. Schlimm empfand ich damals, abends schon im warmen Bett iegend,
+ausgesetzt. Schlimm empfand ich damals, abends schon im warmen Bett liegend,
 die Vorstellung, wie es gerade jetzt den ausharrenden Soldaten geht …
 
 Darüber habe ich mich oft mit meinem Vater unterhalten, und den Vergleichen
@@ -41,6 +41,7 @@ letzten Krieg verloren haben"_ sagte er, _"wir würden wohl sonst selbst als
 Sieger irgendwo hinter dem Ural Wache stehen. Nur gut so, wie es kam …"_
 
 <figure class="right"><a href="/bilder/058.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Kampfgruppe" src="/bilder/thumb-058.png"></a><figcaption>Kampfgruppe</figcaption></figure>
+<figure class="right"><a href="/bilder/059.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Kampfgruppe" src="/bilder/thumb-059.png"></a><figcaption>Kampfgruppe <small><a href="http://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-85701-0016,_Berlin,_Mauerbau,_Kampfgruppen.jpg">(Quelle)</a></small></figcaption></figure>
 In Bezug auf meine eigene noch kommende Militärzeit waren das die
 gescheitesten Gespräche. Rückblickend war das allerbeste pazifistische
 Erziehung.
@@ -52,7 +53,6 @@ schön war, sicher in Erinnerung an den letzten Krieg eine lebensechte Übung
 durch. Die ballerten trotz herum laufender Bevölkerung wie die Blöden auf den
 Straßen rum.
 
-<figure class="left"><a href="/bilder/059.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Kampfgruppe" src="/bilder/thumb-059.png"></a><figcaption>Kampfgruppe <small><a href="http://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-85701-0016,_Berlin,_Mauerbau,_Kampfgruppen.jpg">(Quelle)</a></small></figcaption></figure>
 Unser Nachbar, der Herr Wesche hatte an seinem Eckhaus am Husarenstieg /
 Ferdinand-Lassalle-Straße gerade eine neu gepflanzte Hecke über den Winter
 gerettet. Jetzt aber kam ein armer irrer Nahkämpfer und schmiss sich in
@@ -60,26 +60,27 @@ Deckung gehend direkt auf die jungen Pflanzen. Herr Wesche hätte den wohl am
 liebsten massakriert. Ich stand in unmittelbarer Nähe und schaute dem
 irrwitzigen Treiben zu.
 
- Als Kinder waren wir Nachkriegsgeborenen ob des Treibens
+<figure class="left"><a href="/bilder/061.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Murmeln" src="/bilder/thumb-061.png"></a><figcaption>Murmeln</figcaption></figure>
+<figure class="left"><a href="/bilder/060.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Patronenhu&#x308;lse" src="/bilder/thumb-060.png"></a><figcaption>Patronenhu&#x308;lse <small><a href="http://commons.wikimedia.org/wiki/File:Starfighter-2009.JPG?uselang=de#file">(Quelle)</a></small></figcaption></figure>
+Als Kinder waren wir Nachkriegsgeborenen ob des Treibens
 jedoch hellauf begeistert. Wir sammelten im Anschluss die kupfernen
 Platzpatronenhülsen auf. Nicht für den Altstoffhandel, nein. Hiermit wurden
 noch wochenlang tollste Tauschgeschäfte vollzogen. So eine Hülse konnte einem
 schon 3 farbige Glasmurmeln oder eine Stahler (Stahlkugel) bescheren.
 
-<figure class="right"><a href="/bilder/060.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Patronenhu&#x308;lse" src="/bilder/thumb-060.png"></a><figcaption>Patronenhu&#x308;lse <small><a href="http://commons.wikimedia.org/wiki/File:Starfighter-2009.JPG?uselang=de#file">(Quelle)</a></small></figcaption></figure>
 Ob unsere Straßendecke durch diese Übung in Mitleidenschaft gezogen wurde,
-weiß ich nicht. Sie wurde jedoch bald erneuert und dazu mit einer Teeremulsion
+weiß ich nicht. Sie wurde jedoch bald erneuert und dazu mit einer Teer-Emulsion
 mittels Gießkannen begossen und von Hand neu mit Splitt bestreut und von Hand
 abgewalzt. Das war DDR-Technik die begeisterte!
 
 Kurz drauf kam ich von irgendwo her mit unserem Handwagen, sicherlich
 vom Altstoffe, wie Papier und Gläser, verkaufen.
 
-<figure class="left"><a href="/bilder/061.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Murmeln" src="/bilder/thumb-061.png"></a><figcaption>Murmeln</figcaption></figure>
 Die meisten Nachbarskinder spielten gerade die damals üblichen Straßenspiele,
 wie "Völkerball", "Suchen", "Kriegen" (in manchen Gegenden nennt man das auch
 Fangen oder Hasche) oder auch "Herr Fischer, wie tief ist das Wasser?".
 
+<figure class="right"><a href="/bilder/062.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Handwagen" src="/bilder/thumb-062.png"></a><figcaption>Handwagen</figcaption></figure>
 Nach meinem Fragen, ob jemand mitfahren möchte, war ruck zuck der Handwagen
 voller Kinder. Ich allein zog die johlende Meute. Das war nicht sonderlich
 schwer, denn die Maxim-Gorki-Straße hat leichtes Gefälle. Alle johlten, als
@@ -88,27 +89,26 @@ wollte ich eine Wende vollführen. Ich sprang im Laufen schnell nach links,
 blieb stehen und wollte nur die Deichsel elegant um mich herum führen. Das
 hatte ich schon oft mit meinem Faun-LKW geübt.
 
-<figure class="right"><a href="/bilder/062.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Handwagen" src="/bilder/thumb-062.png"></a><figcaption>Handwagen</figcaption></figure>
 Doch jetzt waren andere Masse- und Kräfteverhältnisse am wirken und Physik
 wurde erst ab 5. Klasse gelehrt. So kippte die ganze Fuhre unkontrolliert um
 und alle Kinder mit ihren kurzen Hosen, Hemden und Kleidchen schabten "schön"
 über den frisch aufgelegten Splitt! Jetzt brüllte die ganze Meute. Aus ihrem
 Johlen wurde Jaulen … Was haben die Nachbarskinder geschrieen und geblutet.
 Kein Knie und kein Unterarm wurde verschont. Ich bin sofort reingelaufen und
-habe alles verfügbare Pflaster geholt. Es war dennoch zu wenig. Bernd und Ralf
-F., Simone, Nicoline und noch zwei oder drei Kinder haben geheult wie ein
+habe alles verfügbare Pflaster geholt. Es war dennoch zu wenig. Bernd und Ralf,
+Simone, Nicoline und noch zwei oder drei Kinder haben geheult wie ein
 Rudel Wölfe. Ja, Kinderhaut, frisches Blut, kleine Steinchen und Teer passen
 irgendwie nicht recht zusammen …
 
 Ich kann mich aber nicht mehr an Sanktionen erinnern, was aber nicht heißt,
 dass es keine Strafe gab.
 
-Vielleicht aber habe ich den Grundstein für Ralfs Berufswunsch gelegt. Dr.
-Ralf F. ist heute ein anerkannter Chirurg im Klinikum Quedlinburg! ;)
+Vielleicht aber habe ich den Grundstein für Ralfs Berufswunsch gelegt.
+Er ist heute ein anerkannter Chirurg im Klinikum Quedlinburg! ;)
 
 <figure class="left"><a href="/bilder/063.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Bierverkauf" src="/bilder/thumb-063.png"></a><figcaption>Bierverkauf <small><a href="http://commons.wikimedia.org/wiki/File:Fotothek_df_pk_0000192_003_Kinder_mit_dem_Springseil.jpg#file">(Quelle)</a></small></figcaption></figure>
  Wöchentlich kündigte sich der Kutscher der Brauerei Lüdde durch
-Glockengeläut an. Der Kutscher war Herr Busch, der Vater einer meiner späteren
+Glockengeläut an. Der Kutscher, war der Vater einer meiner späteren
 Mitschülerinnen, der Vater von Erika (leider habe ich kein Originalfoto
 bekommem) Zwei schwere Brauereipferde zogen den Wagen. Alle paar Meter wurde
 Halt gemacht. Der Kutscher wurde nun der Verkäufer. Er ließ köstliches
@@ -129,7 +129,7 @@ Der Kutscher war ein freundlicher Mann. Bei dem durften wir Jungen einige Male
 mitfahren und auf gerader Strecke auch schon mal die Zügel halten. Das war
 seine Art der Kundenpflege …
 
-1962 und auch 63 zelteten wir "nur" am Treuen Nachbarsteich bei Staßberg im
+1962 und auch 63 zelteten wir "nur" am Treuen Nachbarsteich bei Straßberg im
 Harz.
 
 Hier stand direkt auf der Wiese auch das Zelt von Nachbarsfamilie K.. Da dort
@@ -153,65 +153,6 @@ sollten bald einen neuen "Trabant 600 Kombi" bekommen. Nur verzögerte sich der
 Kauf gewaltig. Gespart wurde darauf mächtig, dennoch hatte sicher das Geld
 noch nicht gereicht … Oder das Plansoll in Zwickau war noch nicht erfüllt.
 
-<figure class="right"><a href="/bilder/064.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Ausklopfer" src="/bilder/thumb-064.png"></a><figcaption>Ausklopfer</figcaption></figure>
- Mein 12. Geburtstag, der 27. April 1963 war morgens ein schöner Tag.
-Abends nicht mehr!
-
-Früh bekam ich eine ladenneue Trainingshose geschenkt. Die durfte ich sogleich
-anziehen und sie hielt trotz bester Qualität nur bis Mittag kurz nach
-Schulschluss.
-
-Da wollte ich über einen spitzen schmiedeeisernen Zaun am Heinrichsplatz neben
-der damaligen HO-Kaufhalle klettern. Tat ich auch. Ich sprang runter und meine
-schöne neue Hose hing zerrissen teilweise noch oben. Ein Hosenbein war fast
-komplett abgetrennt. Oh, oh! Mir ging es fast wie Bullen Hannibal, der zu
-seinen Kühen wollte und über einen Drahtzaun sprang und dann nur noch Hanni
-hieß.
-
-Ja, insofern hatte ich Glück.
-
-Blöd war aber, dass ich auf meine Mutters Nachfrage, wie es den passiert sei,
-mit den Schultern zuckte und antwortete, dass ich das nicht bemerkt hätte.
-
-Und hier setzt wieder unsere Analyse ein: Was muss ich da zuvor schon für
-Angst vor Mutters Reaktion gehabt haben, um so blöd zu lügen?
-
-Das hat meine liebe Mutter aber nicht erforschen wollen, nein. Sie zog es vor,
-mich nach allen Regeln der Kunst zu verdreschen.
-
-Zu diesem Ritual befahl sie mir stets, den Teppichklopfer aus der Speisekammer
-zu holen. Den hatte ich dann feierlich zu übergeben, um damit sogleich
-rücksichtslos verprügelt zu werden. Es waren also nicht nur spontane
-Schmerzen, nein schlimmer noch war die Angst vor dem, was gleich passieren
-würde …
-
-In zweieinhalb Jahren ist das goldene Jubiläum, dann ist diese Ereignis 50
-Jahre alt. Die seelischen Schmerzen, die mir an meinem 12. Geburtstag zugefügt
-wurden, aber kann ich noch heute nachempfinden …
-
-Egal was ein Kind anstellt, es gibt für Eltern kein Recht, Kinder so zu
-misshandeln!
-
-Keine Angst liebe Mutter, es ist alles lange verjährt! Mit 50 Jahren Abstand
-würdest du wahrscheinlich heute auch anders reagieren.
-
-Bis in diese Zeit habe ich nur relativ wenig gelesen. Allerdings kannte ich
-schon "Tom Sawyers Abenteuer" und seine Streiche … Auch den mit Tante Pollys
-Rohrstock … Ich prüfte nun Mark Twains Geschichten auf ihren Wahrheitsgehalt:
-Der Mann hat nicht gelogen!
-
-Auch ich nahm mir nach der letzten Prügelorgie den Ausklopfer vor. Eine schöne
-saftige Zwiebel habe auch ich zerschnitten und den gesamten Ausklopferstiel
-damit eingerieben. Der strenge Zwiebelgeruch fiel nicht sonderlich auf, da
-unser Klopfer praktischer Weise innen an der Speisekammertür hing. Da dessen
-Stiel geflochten war, stellte sich der Erfolg allerdings erst nach etwa 3
-Wochen und mehrmaligen weiteren "Salbungen" ein. Irgendwann ist der Stiel dann
-auf meinem Rücken zerborsten.
-
-Später gab es nur noch Schellen mit der flachen Hand, das war "angenehmer",
-der Klopfer hatte sich, auch Dank der DDR-Mangelwirtschaft, für immer erledigt
-…
-
 <figure class="left"><a href="/bilder/065.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Maika&#x308;fer" src="/bilder/thumb-065.png"></a><figcaption>Maika&#x308;fer <small><a href="http://commons.wikimedia.org/wiki/File:Melolontha_melolontha_2.jpg">(Quelle)</a></small></figcaption></figure>
 Während meiner gesamten Schulzeit gab es
 alle Jahre wieder die begehrten Maikäfer. Alle 4 Jahre traten die Käfer
@@ -227,11 +168,11 @@ war gerade ausgetrieben, da fielen schon tausende und abertausende Käfer über
 die Blätter her. Wir haben die Käfer gesammelt, in die Schule geschleppt und
 getauscht, sowie allerlei Blödsinn damit veranstaltet.
 
-Breitensteins Hühner hinter unserem Nachbarhaus, freuten sich jedenfalls
+Die Hühner hinter unserem Nachbarhaus, freuten sich jedenfalls
 irrsinnig, wenn wir Käfer über den Zaun warfen. Es entstand sofort eine
 regelrechte Hühnerschlacht um diese köstlichen Leckerbissen.
 
-Susanne und ihre Schwester Simone haben oft versucht diese Futterzufuhr zu
+Die dort wohnenden 2 Schwestern haben oft versucht diese Futterzufuhr zu
 begrenzen. Denn angeblich würden bei zu starker Fütterung die Eier nach
 Käfern schmecken oder in den Eiern befänden sich gar Käferbeine. Tolle
 Vorstellung!
@@ -258,7 +199,7 @@ eigentlich … Oh, wie trist ist doch heute der Schulalltag?
 Um so älter ich werde, und das geht nicht nur mir so, bemerke ich den rasanten
 Klimawandel. Nur Frühergeborene können vergleichen.
 
-Während meiner Kindheit war es sicher, dass im Winter 30cm Schnee als Minimum
+Während meiner Kindheit war es sicher, dass im Winter 30 cm Schnee als Minimum
 lagen. Nicht in den Bergen, ich meine in Quedlinburg.
 
 Es gab nicht einmal Winterferien ohne Schnee. Wenn wir im März "Im Märzen der
@@ -314,7 +255,7 @@ notfalls vor den Mädchen unter einer Turnhose wechseln. Der neueste Schrei!
 Auch ich wuchs und brauchte mal eine neue Badehose. Zumal ich einen 14-tägigen
 Rettungsschwimmer-Lehrgang in den Ferien besuchte und bestand. Auf einer solch
 schicken Badehose hätte mein erworbenes Rettungsschwimmer-Stoffabzeichen
-genäht werden können.Hätte! … Doch an mir wurde gespart …
+genäht werden können. Hätte! … Doch an mir wurde gespart …
 
 Bekam aber auch postwendend eine Badehose verpasst. Allerdings aus _Wolle_!
 Knallrote Wolle wurde verstrickt. Oben kam durch die weiten Maschen gezogen
@@ -324,7 +265,7 @@ Schambehaarung hatte, die die Maschen hätte erobern können …
 
 Das einzig wirklich Positive war, dass es derzeit wohl keine gelbe Wolle gab.
 Ich hätte sonst bestimmt auch noch Hammer und Sichel auf meiner Badehose
-gestickt vorgefunden.
+gestickt vorgefunden. ;)
 
 Das war eine der größten mir je zugefügten Demütigungen. Ich wollte doch auch
 baden. Eine andere Hose gab es aber für mich nicht. Ich bin verlacht und
@@ -356,8 +297,8 @@ Das Pionierferienlager durfte ich übrigens mit zwei, drei anderen Kindern nach
 unserer Ankunft erst Stunden später betreten. Meine Mitschülerin Sigrid aus
 unserer Nachbarschaft saß auch mit vor dem Tor. Da waren die besten
 Schlafplätze drinnen alle schon vergeben. Der Grund war, dass die Einwilligung
-unserer Eltern nicht unterschrieben war. Dem Quedlinburger Lagerleiter namens
-Pabst war nicht zu helfen: Als ob sich ein 12-Jähriger selbst den Koffer packt
+unserer Eltern nicht unterschrieben war. Dem Quedlinburger Lagerleiter
+war nicht zu helfen: Als ob sich ein 12-Jähriger selbst den Koffer packt
 und dann unbemerkt von seinen Eltern mit dem Zug in ein Ferienlager fährt ….
 
 <figure class="left"><a href="/bilder/069.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Kreuzotter" src="/bilder/thumb-069.png"></a><figcaption>Kreuzotter <small><a href="http://commons.wikimedia.org/wiki/File:Kreuzotter_%28Skagen,_Denmark%29.jpg?uselang=de">(Quelle)</a></small></figcaption></figure>

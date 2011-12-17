@@ -1,17 +1,17 @@
 ---  
 layout: post
-title: Meine Großeltern vom Bornholzweg…
+title: Meine Großeltern vom Bornholzweg …
 chapter: 13
 ---  
 
 
 
-<figure class="right"><a href="/bilder/034.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Gro&#xdf;eltern Brunkau" src="/bilder/thumb-034.png"></a><figcaption>Gro&#xdf;eltern Brunkau</figcaption></figure>
- Gern war ich während meiner Kinder- und Jugendjahre auch bei meinen Großeltern
-Oma Luise und Opa Willi Brunkau, den Eltern meiner Mutter. Sie wohnten
-praktischer Weise in ihrem 3-Morgen großen Garten in der Bornholzweg-Siedlung.
+<figure class="right"><a href="/bilder/034.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Gro&#xdf;eltern" src="/bilder/thumb-034.png"></a><figcaption>Gro&#xdf;eltern Brunkau</figcaption></figure>
+Gern war ich während meiner Kinder- und Jugendjahre auch bei meinen Großeltern,
+den Eltern meiner Mutter. Sie wohnten praktischer Weise in ihrem 3-Morgen
+großen Garten in der Bornholzweg-Siedlung.
 
-Oma Luise verdingte sich in frühen Jahren bei "Mette und Dippe", den örtlich
+Oma verdingte sich in frühen Jahren bei "Mette und Dippe", den örtlich
 führenden Saatgutbetrieben. Sie arbeitete dann über viele Jahre als
 Feinmechanikerin bei "Steinle und Hartung", dem Vorläufer des späteren VEB
 Mertik im Klopstockweg.
@@ -33,9 +33,9 @@ Sicherheitsdienst in Magdeburg mit aus der Taufe gehoben. Genaueres weiß ich
 aber nicht, denn es gab Bereiche in der Familie über denen Schweigen waberte.
 Und wer nichts weiß, kann nichts erzählen …
 
-Meine neuesten "konspirativen" Recherchen ergaben lediglich, dass mein
-Großvater bis 1952 zwei weitere Polizei-Dienststellen betreute, in Jessen und
-Schweinitz. Anschließend arbeitete er in der Quedlinburger Kreisdienststelle
+Meine Recherchen ergaben lediglich, dass mein Großvater bis 1952 zwei
+weitere Polizei-Dienststellen betreute, in Jessen und Schweinitz.
+Anschließend arbeitete er in der Quedlinburger Kreisdienststelle
 der Staatssicherheit bis in die 1960-er Jahre hinein, bis zur eigenen,
 frühzeitigen Pensionierung.
 
@@ -83,11 +83,11 @@ Wir haben dort beispielsweise wunderschöne Osterfeste gefeiert. Sind in
 Richtung Westerhausen gewandert und haben am sandsteinigen "Kamel"-Felsen
 unsere zuvor gefundenen Ostereier den Berg hinab trudeln lassen. An der
 Festtafel haben wir anschließend auch etliche Hähnchen, Kaninchen und Tauben,
-die unsere Oma Lieschen zwischenzeitlich zubereitete, verspeist.
+die unsere Oma zwischenzeitlich zubereitete, verspeist.
 
 <figure class="left"><a href="/bilder/037.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Hamster" src="/bilder/thumb-037.png"></a><figcaption>Hamster <small><a href="http://commons.wikimedia.org/wiki/File:DDR_50_Pfennig.jpg">(Quelle)</a></small></figcaption></figure>
  Ich erinnere mich auch noch an einige Kartoffelkäfer-Plagen
-undhunderte von Feldhamstern, die Opas Korn fraßen. Letzteren stellte Opa
+und hunderte von Feldhamstern, die Opas Korn fraßen. Letzteren stellte Opa
 damals auf seinem Acker mit Draht-Fallen nach. Die Hamster wurden dann
 gehäutet, ausgenommen, gekocht und den Hühnern kleingehackt serviert …
 
@@ -114,14 +114,14 @@ rebellieren: Feldhamster schmecken vorzüglich!
  Hier im Garten spielten und tobten alle Kinder vom "Großclan derer von
 Brunkau" und aller Angeheirateten und Zugelaufenen …
 
-Jutta, Mutters jüngste Schwester, meine gerade mal 5 Jahre ältere Tante,
+Judith, Mutters jüngste Schwester, meine gerade mal 5 Jahre ältere Tante,
 verstand es prima, uns Kleineren das Fürchten zu lehren. Hier wurden
 ihrerseits furchtsame Spiele mit uns, ihren Nichten und Neffen, veranstaltet.
 Im dunklen Keller wurde uns eine Gruselgeschichte nach der anderen erzählt.
 Und dann mit den Worten _"Erschreck dich nicht!"_ im Stockfinstern in unsere
 Rippen gegriffen. Obwohl meine Hosen trocken blieben, war es schauerlich!
 
-Auch diese, meine jüngste Tante "Baronesse Jutta", das ritterbürgerliche
+Auch diese, meine jüngste Tante "Baronesse Judith", das ritterbürgerliche
 Burgfräulein, hat wohl unbewusst einige adlige Gene aus der Brunkau'schen Zeit
 der eigenen Burgen und Großgrundbesitzungen mit in die Neuzeit hinüber
 gerettet. Vielleicht die Gene der Kerkermeister? ;)
@@ -153,7 +153,7 @@ Wartenberg und Brunkau nie geschleift worden. Dann hätten sicher einige
 verarmte Vorfahren nicht Ende des 19. Jahrhunderts nach Amerika auswandern
 brauchen …
 
-Ob dann aber mein Opa Willi, als "hauptberuflicher" Freiherr von Brunkau, wohl
+Ob dann aber mein Opa, als "hauptberuflicher" Freiherr von Brunkau, wohl
 auch Kommunist geworden wäre? Und was hätte meine Mutter, die Freiin von
 Brunkau wohl für eine Rolle gespielt?
 
@@ -168,5 +168,5 @@ schon auf einen Stammbaum von 1089 Jahren verweisen? (Stand anno 2010)
 
 Das aber soll mein einziger "großer" geschichtlicher Familien-Rückblick sein,
 denn väterlicherseits waren die Lebensumstände der Altvorderen nicht so
-berauschend. Irgend wer musste ja auch arbeiten …
+berauschend. Irgend wer musste ja auch arbeiten … ;)
 

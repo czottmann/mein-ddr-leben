@@ -1,8 +1,8 @@
----  
+---
 layout: post
 title: Innerdeutsche -- und Familienpolitik
 chapter: 20
----  
+---
 
 
 
@@ -27,10 +27,10 @@ allerdings in Dresden statt, wo beide auch noch viele Freunde hatten.
 Meine Mutter trat voller Überzeugungskraft für die Gesetze der DDR ein. Ich
 merkte aber, dass diese für sie selbst nicht immer so ganz genau gelten
 sollten. Niemand sollte mehr West-Kontakte haben, _wir_ schon, das war ja
-etwas Anderes!
+etwas Anderes.
 
 Überall taten sich Widersprüche auf, sie stärkten aber ungewollt nur mein
-Gerechtigkeitsempfinden. Eine gute Lebensschule.
+Gerechtigkeitsempfinden. Eine gute Lebensschule!
 
 Während eines Besuchs statteten Tante Aenne und Onkel Hans auch der Witwe
 Stünkel aus der Heiligengeiststraße einen Besuch ab. Gegenüber des "Rates des
@@ -62,6 +62,7 @@ besonders aber ältere Quedlinburger, ungläubig angesehen. Die dachten wohl,
 der von den derzeitigen Machthabern enteignete Samenzüchter Dippe wäre wieder
 im Land …
 
+<figure class="left"><a href="/bilder/072.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Taschenuhr" src="/bilder/thumb-072.png"></a><figcaption>Taschenuhr</figcaption></figure>
 Zu Hause angekommen, wurden die neuen Schätze verteilt. Klar doch, dass ich
 fast alle Uhrengläser einstrich. Onkel Hans kramte noch einiges Werkzeug aus
 der großen Reisetasche, das ab sofort im Keller gelagert wurde, und etliche
@@ -70,7 +71,7 @@ Taschenuhren und deren Resten, blinkte eine einzige neusilberne tadellos
 funktionierende Uhr aus dem ganzen Schrott. Zu meinem Leidwesen hatte die der
 Onkel aber meinem Vater zugedacht.
 
-<figure class="left"><a href="/bilder/071.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Unruhe, gezeichnet" src="/bilder/thumb-071.png"></a><figcaption>Unruhe, gezeichnet</figcaption></figure>
+<figure class="right"><a href="/bilder/071.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Unruhe, gezeichnet" src="/bilder/thumb-071.png"></a><figcaption>Unruhe, gezeichnet</figcaption></figure>
 Schon am nächsten Schultag saßen viele Augenkranke im Unterricht, mit meinen
 Monokeln … Und wer war Schuld?
 
@@ -111,7 +112,7 @@ formulieren. Daher stammt auch der Ausdruck: "Ich bin gelernter DDR-Bürger".
 Wir konnten uns, glaube ich, besser und schneller anpassen …
 
 Dieses politische Lügengespinst war allgegenwärtig. Nicht nur bei uns. Meine
-Mutterwar auch Kommunistin, nahm gleichzeitig aber alle Vergünstigungen, die
+Mutter war auch Kommunistin, nahm gleichzeitig aber alle Vergünstigungen, die
 sie betrafen, gern in Anspruch.
 
 Das habe ich schon früh gespürt, sie aber behauptet heute noch, dass die DDR
@@ -124,25 +125,25 @@ ehemaligen SED (*"Die Partei, die Partei, die hat immer Recht"*).
 <figure class="right"><a href="/bilder/074.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Chor" src="/bilder/thumb-074.png"></a><figcaption>Chor <small><a href="http://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-64930-0003,_Schkopau_,_Er%C3%B6ffnung_I._Arbeiterfestspiele.jpg#file">(Quelle)</a></small></figcaption></figure>
 Zum Verständnis die 1. Strophe und der Refrain von "Das Lied der Partei":
 
-> Sie hat uns alles gegeben.  
-> Sonne und Wind und sie geizte nie.  
-> Wo sie war, war das Leben.  
-> Was wir sind, sind wir durch sie.  
-> Sie hat uns niemals verlassen.  
-> Fror auch die Welt, uns war warm.  
-> Uns schützt die Mutter der Massen.  
-> Uns trägt ihr mächtiger Arm.  
-> Die Partei, die Partei, die hat immer Recht!  
-> Und, Genossen, es bleibe dabei;  
-> Denn wer kämpft für das Recht,  
-> Der hat immer recht.  
-> Gegen Lüge und Ausbeuterei.  
-> Wer das Leben beleidigt,  
-> Ist dumm oder schlecht.  
-> Wer die Menschheit verteidigt,  
-> Hat immer recht.  
-> So, aus Leninschem Geist,  
-> Wächst, von Stalin geschweißt,  
+> Sie hat uns alles gegeben.
+> Sonne und Wind und sie geizte nie.
+> Wo sie war, war das Leben.
+> Was wir sind, sind wir durch sie.
+> Sie hat uns niemals verlassen.
+> Fror auch die Welt, uns war warm.
+> Uns schützt die Mutter der Massen.
+> Uns trägt ihr mächtiger Arm.
+> Die Partei, die Partei, die hat immer Recht!
+> Und, Genossen, es bleibe dabei;
+> Denn wer kämpft für das Recht,
+> Der hat immer recht.
+> Gegen Lüge und Ausbeuterei.
+> Wer das Leben beleidigt,
+> Ist dumm oder schlecht.
+> Wer die Menschheit verteidigt,
+> Hat immer recht.
+> So, aus Leninschem Geist,
+> Wächst, von Stalin geschweißt,
 > Die Partei - die Partei - die Partei.
 
 Und genau aus dieser landesweiten katzbuckelnden Haltung heraus ist die DDR
@@ -192,7 +193,7 @@ Telefonanschluss. Macht nichts! So wählte ich willkürlich Nummern und
 verscheißerte in kindlicher Freude die Angerufenen. Dabei bin ich nie erwischt
 worden …
 
-<figure class="left"><a href="/bilder/075.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="Volker, 1965" src="/bilder/thumb-075.png"></a><figcaption>Volker, 1965</figcaption></figure>
+<figure class="left"><a href="/bilder/075.jpg" title="Klicken f&uuml;r Grossansicht" rel="facebox"><img title="1965" src="/bilder/thumb-075.png"></a><figcaption>Volker, 1965</figcaption></figure>
  Bei uns sah das Familienleben sehr oft anders aus als bei meinen
 gleichaltrigen Mitschülern. Unsere Mutter kam aufgrund ihres Amtes mit den
 Jahren immer unregelmäßiger und oftmals erst spät am Abend heim. Gut, wenn
