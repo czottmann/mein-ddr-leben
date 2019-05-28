@@ -1,0 +1,158 @@
+body {
+  font-family: "Droid Serif", Georgia, "Times New Roman", serif;
+  font-size: 95%;
+  color: #444;
+  background-image: url(/img/exclusive_paper.png);
+  text-shadow: 0 1px 1px #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Special Elite";
+  text-shadow: 0 -1px 1px #fff;
+}
+
+a {
+  color: #55a;
+  border-bottom: 1px dotted #88c;
+  text-decoration: none;
+  padding: 0 0.2em;
+}
+
+a:hover {
+  background-color: #fff;
+}
+
+blockquote {
+  font-style: italic;
+  padding-left: 2em;
+  border-left: 0.2em solid #aaa;
+}
+
+.big {
+  font-size: 120%;
+}
+
+
+
+
+#heading {
+  margin: 0 0 2em 0;
+  padding: 2em 0 0 0;
+  background-image: url(/img/carbon_fibre.gif);
+  color: #ccc;
+  text-shadow: 0 1px 1px #000;
+  border-bottom: 3px solid #bbb;
+}
+
+header h1 {
+  font-size: 3em;
+  text-shadow: 0 1px 2px #000;
+}
+
+header h1 a {
+  color: #eee;
+  text-decoration: none;
+  padding: 0;
+  border-bottom: 0;
+}
+
+header h1 a:hover {
+  color: #fff;
+  text-shadow: 0 1px 2px #666;
+  background-color: transparent;
+}
+
+header h1 span {
+  color: #bbb;
+  font-size: 40%;
+  text-shadow: 1px 1px 2px #000;
+}
+
+header h2, h3, h4, h5, h6 {
+  color: #ddd;
+  text-shadow: 0 1px 2px #000;
+}
+
+
+
+
+#pagination {
+  margin: 2em 0 1em 0;
+}
+
+#pagination .grid_4 {
+  text-align: center;
+}
+
+
+
+
+#foot {
+  background-image: url(/img/carbon_fibre.gif);
+  color: #ccc;
+  text-shadow: 0 1px 1px #000;
+  font-family: Helvetica, Arial, sans-serif;
+  border-top: 3px solid #bbb;
+}
+
+#foot a {
+  color: #AAE;
+  border-bottom: 1px dotted #AAE;
+}
+
+#foot a:hover {
+  background-color: #000;
+}
+
+#foot h1, h2, h3, h4, h5, h6 {
+  text-shadow: 0 1px 1px #000;
+  color: #ccc;
+}
+
+footer {
+  margin: 1.5em 0 1.5em 0;
+  padding: 1.5em 0 1.5em 0;
+}
+
+#impressum {
+  font-size: 0.8em;
+}
+
+
+
+
+figure {
+  background-color: #eee;
+  border: 2px solid #999999;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  /*IE DOES NOT SUPPORT BORDER RADIUS*/
+  -moz-box-shadow:0px 0px 5px #333;
+  -webkit-box-shadow: 0px 0px 5px #333;
+  box-shadow: 0px 0px 5px #333;
+  /*IE DOES NOT SUPPORT BLUR PROPERTY OF SHADOWS*/
+
+  padding: 0.4em 0.2em 0.2em 0.2em;
+}
+
+figure.left {
+  float: left;
+  margin-right: 1em;
+}
+
+figure.right {
+  float: right;
+  margin-left: 1em;
+}
+
+figure img {
+  border: 1px solid #ddd;
+}
+
+figcaption {
+  padding: 0.2em 0.3em 0 0.3em;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.8em;
+}
+
