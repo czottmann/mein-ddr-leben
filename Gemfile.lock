@@ -5,7 +5,7 @@ GEM
       fast-stemmer (~> 1.0.0)
       mathn
       rake
-    cmdparse (3.0.1)
+    cmdparse (3.0.4)
     directory_watcher (1.5.1)
     fast-stemmer (1.0.2)
     jekyll (0.12.1)
@@ -23,9 +23,9 @@ GEM
     liquid (2.6.3)
     maruku (0.7.3)
     mathn (0.1.0)
-    mini_portile2 (2.0.0)
-    nokogiri (1.6.7.2)
-      mini_portile2 (~> 2.0.0.rc2)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.3)
+      mini_portile2 (~> 2.4.0)
     posix-spawn (0.3.13)
     pygments.rb (0.3.7)
       posix-spawn (~> 0.3.6)
