@@ -9,4 +9,5 @@ pygments:    false
 markdown:    maruku
 permalink:   none
 # END
-exclude: LICENSE, README.markdown, Rakefile
+exclude: LICENSE, README.markdown, Rakefile, Gemfile, Gemfile.lock, mein-ddr-leben.sublime-project, mein-ddr-leben.sublime-workspace
+
