@@ -23,13 +23,15 @@ GEM
     liquid (2.6.3)
     maruku (0.7.3)
     mathn (0.1.0)
-    mini_portile2 (2.4.0)
-    nokogiri (1.10.3)
-      mini_portile2 (~> 2.4.0)
+    mini_portile2 (2.5.1)
+    nokogiri (1.11.4)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
     posix-spawn (0.3.13)
     pygments.rb (0.3.7)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
+    racc (1.5.2)
     rake (12.3.2)
     rubyzip (0.9.9)
     yajl-ruby (1.1.0)
@@ -40,7 +42,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 0.12.1)
   juicer (~> 1.0, >= 1.0.13)
-  nokogiri (~> 1.5)
+  nokogiri (~> 1.11)
 
 RUBY VERSION
    ruby 2.3.8p459
