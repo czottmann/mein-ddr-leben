@@ -1,12 +1,16 @@
 body {
-  font-family: "Droid Serif", Georgia, "Times New Roman", serif;
-  font-size: 95%;
+  font-family: Georgia, "Times New Roman", serif;
   color: #444;
   background-image: url(/img/exclusive_paper.png);
   text-shadow: 0 1px 1px #fff;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Special Elite";
   text-shadow: 0 -1px 1px #fff;
 }
@@ -31,9 +35,6 @@ blockquote {
 .big {
   font-size: 120%;
 }
-
-
-
 
 #heading {
   margin: 0 0 2em 0;
@@ -68,13 +69,14 @@ header h1 span {
   text-shadow: 1px 1px 2px #000;
 }
 
-header h2, h3, h4, h5, h6 {
+header h2,
+h3,
+h4,
+h5,
+h6 {
   color: #ddd;
   text-shadow: 0 1px 2px #000;
 }
-
-
-
 
 #pagination {
   margin: 2em 0 1em 0;
@@ -83,9 +85,6 @@ header h2, h3, h4, h5, h6 {
 #pagination .grid_4 {
   text-align: center;
 }
-
-
-
 
 #foot {
   background-image: url(/img/carbon_fibre.gif);
@@ -96,15 +95,20 @@ header h2, h3, h4, h5, h6 {
 }
 
 #foot a {
-  color: #AAE;
-  border-bottom: 1px dotted #AAE;
+  color: #aae;
+  border-bottom: 1px dotted #aae;
 }
 
 #foot a:hover {
   background-color: #000;
 }
 
-#foot h1, h2, h3, h4, h5, h6 {
+#foot h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   text-shadow: 0 1px 1px #000;
   color: #ccc;
 }
@@ -118,9 +122,6 @@ footer {
   font-size: 0.8em;
 }
 
-
-
-
 figure {
   background-color: #eee;
   border: 2px solid #999999;
@@ -128,7 +129,7 @@ figure {
   -webkit-border-radius: 4px;
   border-radius: 4px;
   /*IE DOES NOT SUPPORT BORDER RADIUS*/
-  -moz-box-shadow:0px 0px 5px #333;
+  -moz-box-shadow: 0px 0px 5px #333;
   -webkit-box-shadow: 0px 0px 5px #333;
   box-shadow: 0px 0px 5px #333;
   /*IE DOES NOT SUPPORT BLUR PROPERTY OF SHADOWS*/
@@ -155,4 +156,3 @@ figcaption {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 0.8em;
 }
-

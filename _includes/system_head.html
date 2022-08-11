@@ -1,48 +1,51 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]> <html lang="de" class="no-js ie6"> <![endif]-->
-<!--[if IE 7 ]>    <html lang="de" class="no-js ie7"> <![endif]-->
-<!--[if IE 8 ]>    <html lang="de" class="no-js ie8"> <![endif]-->
-<!--[if lt IE 9]>  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--> <html lang="de" class="no-js"> <!--<![endif]-->
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="shortcut icon" href="/favicon.ico">
-	
-	<link rel="stylesheet" media="all" href="/css/reset.css?_=1">
-  <link rel="stylesheet" media="all" href="/css/text.css?_=1">
-  <link rel="stylesheet" media="all" href="/css/960.css?_=1">
-	<link rel="stylesheet" media="all" href="/css/facebox.css?_=1">
-	<link rel="stylesheet" media="all" href="/css/style.css?_=1">
+<!--[if lt IE 7]> <html lang="de" class="no-js ie6"> <![endif]-->
+<!--[if IE 7]>    <html lang="de" class="no-js ie7"> <![endif]-->
+<!--[if IE 8]>    <html lang="de" class="no-js ie8"> <![endif]-->
+<!--[if lt IE 9]>
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="de" class="no-js">
+  <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="/favicon.ico" />
 
-	<link href='//fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
-  <link href='//fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+    <script
+      async
+      defer
+      data-domains="mein-ddr-leben.de"
+      data-website-id="cf19587e-4dfc-4d98-8941-d30da230537e"
+      src="https://umami.czm.io/sup.js"
+    ></script>
 
-	{% case page.layout %}
-	{% when 'home' %}
-	<title>{{ site.sitename }}</title>
-	  <meta http-equiv="refresh" content="0;url=/01.html">
-	{% when 'post' %}
-		<title>{{ site.sitename }} &raquo; {{ page.title }}</title>
-		<meta name="description" content="Volker Zottmann's Geschichtsrückblick aus seiner Sicht auf sein Leben in der Deutschen Demokratischen Republik.  Alles basiert auf seinen Erinnerungen.">
-	{% else %}
-	  <title>{{ site.sitename }} &raquo; {{ page.title }}</title>
-		<meta name="description" content="{{ page.description }}">
-	{% endcase %}
+    <link rel="stylesheet" media="all" href="/css/reset.css?_=1" />
+    <link rel="stylesheet" media="all" href="/css/text.css?_=1" />
+    <link rel="stylesheet" media="all" href="/css/960.css?_=1" />
+    <link rel="stylesheet" media="all" href="/css/facebox.css?_=1" />
+    <link rel="stylesheet" media="all" href="/css/style.css?_=1" />
 
-  <!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
-  <script>
-  (function(f, a, t, h, o, m){
-    a[h]=a[h]||function(){
-      (a[h].q=a[h].q||[]).push(arguments)
-    };
-    o=f.createElement('script'),
-    m=f.getElementsByTagName('script')[0];
-    o.async=1; o.src=t; o.id='fathom-script';
-    m.parentNode.insertBefore(o,m)
-  })(document, window, '//counter-czm-io.herokuapp.com/tracker.js', 'fathom');
-  fathom('set', 'siteId', 'JEVGY');
-  fathom('trackPageview');
-  </script>
-  <!-- / Fathom -->
-</head>
+    <
+    <link rel="preconnect" href="https://fonts.bunny.net" />
+    <link
+      href="https://fonts.bunny.net/css?family=special-elite:400"
+      rel="stylesheet"
+    />
+
+    {% case page.layout %} {% when 'home' %}
+    <title>{{ site.sitename }}</title>
+    <meta http-equiv="refresh" content="0;url=/01.html" />
+    {% when 'post' %}
+    <title>{{ site.sitename }} &raquo; {{ page.title }}</title>
+    <meta
+      name="description"
+      content="Volker Zottmann's Geschichtsrückblick aus seiner Sicht auf sein Leben in der Deutschen Demokratischen Republik.  Alles basiert auf seinen Erinnerungen."
+    />
+    {% else %}
+    <title>{{ site.sitename }} &raquo; {{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
+    {% endcase %}
+  </head>
+</html>
